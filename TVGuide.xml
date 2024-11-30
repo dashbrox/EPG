@@ -228,7 +228,6 @@
 <channel id="ABC (KGO) San Francisco, CA HD (1007).us"><display-name>ABC (KGO) San Francisco, CA HD (1007).us</display-name></channel>
 <channel id="CNN (202).us"><display-name>CNN (202).us</display-name></channel>
 <channel id="NBC (KNTV) San Francisco, CA HD (1003).us"><display-name>NBC (KNTV) San Francisco, CA HD (1003).us</display-name></channel>
-</tv>
 <programme start="20241129174200 +0000" stop="20241129191700 +0000" channel="HBO HD.ec">
     <title lang="es">Kung Fu Panda 4</title>
     <desc lang="es">Po está entrenando a un nuevo guerrero que ocupe su lugar para que él pueda convertirse en líder espiritual del Valle de la Paz. Sin embargo, la irrupción de una malvada hechicera que puede cambiar de apariencia trastoca sus planes.</desc>
