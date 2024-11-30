@@ -229,3 +229,438 @@
 <channel id="CNN (202).us"><display-name>CNN (202).us</display-name></channel>
 <channel id="NBC (KNTV) San Francisco, CA HD (1003).us"><display-name>NBC (KNTV) San Francisco, CA HD (1003).us</display-name></channel>
 </tv>
+<programme start="20241129174200 +0000" stop="20241129191700 +0000" channel="HBO HD.ec">
+    <title lang="es">Kung Fu Panda 4</title>
+    <desc lang="es">Po está entrenando a un nuevo guerrero que ocupe su lugar para que él pueda convertirse en líder espiritual del Valle de la Paz. Sin embargo, la irrupción de una malvada hechicera que puede cambiar de apariencia trastoca sus planes.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <country lang="es">CHN</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241129191700 +0000" stop="20241129215400 +0000" channel="HBO HD.ec">
+    <title lang="es">Batman vs. Superman: El origen de la justicia</title>
+    <desc lang="es">Batman se enfrenta a Superman, temeroso de que su afán de poder termine nublando su lucha contra la injusticia y lo convierta en un villano. Mientras los héroes pelean, una amenaza terrible se cierne sobre la humanidad.</desc>
+    <date>2016</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241129215400 +0000" stop="20241129222800 +0000" channel="HBO HD.ec">
+    <title lang="es">La franquicia</title>
+    <sub-title lang="es">Escena 117: La muerte de Ojo</sub-title>
+    <desc lang="es">El equipo de una película de franquicia poco querida que lucha por su lugar en un universo cinematográfico salvaje y rebelde.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241129222800 +0000" stop="20241130003000 +0000" channel="HBO HD.ec">
+    <title lang="es">Bad Boys: Hasta la muerte</title>
+    <desc lang="es">Los agentes Mike Lowrey y Marcus Burnett intentan limpiar la reputación de su jefe, a quien han acusado de trabajar para un cartel de narcotraficantes.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241130003000 +0000" stop="20241130010000 +0000" channel="HBO HD.ec">
+    <title lang="es">Sólo en Florida</title>
+    <desc lang="es">Un hombre de Pensacola, conocido por sus persecuciones a alta velocidad, se vuelve viral después de aparecer en un controvertido programa policial en línea que destaca su apariencia única.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241130010000 +0000" stop="20241130031000 +0000" channel="HBO HD.ec">
+    <title lang="es">Back to Black</title>
+    <desc lang="es">Inspirada por la complicada relación sentimental que mantiene con Blake Fielder-Civil, la cantante Amy Winehouse compone el álbum "Back to Black".</desc>
+    <date>2024</date>
+    <country lang="es">FRA</country>
+    <country lang="es">GBR</country>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241130031000 +0000" stop="20241130052500 +0000" channel="HBO HD.ec">
+    <title lang="es">Romper el círculo</title>
+    <desc lang="es">Lily Bloom se enamora de un neurocirujano tras mudarse a Boston con el objetivo de abrir su propio negocio. Sin embargo, el primer amor de su vida retoma el contacto con ella, y Lily ahora no sabe qué hacer.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130052500 +0000" stop="20241130073200 +0000" channel="HBO HD.ec">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+    <desc lang="es">Una nueva especie de dinosaurio, creada por los científicos de forma artificial y más inteligente y peligrosa que las especies conocidas, ataca a los turistas que visitan el parque temático Jurassic World, situado en una isla frente a Costa Rica.</desc>
+    <date>2015</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130073200 +0000" stop="20241130090000 +0000" channel="HBO HD.ec">
+    <title lang="es">Mamá y papá</title>
+    <desc lang="es">Por algún motivo desconocido, todos los padres entran en un estado de histeria colectiva y quieren asesinar a sus hijos. Una adolescente y su hermano pequeño tratarán de sobrevivir a la locura homicida que se ha adueñado de la sociedad.</desc>
+    <date>2017</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241130090000 +0000" stop="20241130110000 +0000" channel="HBO HD.ec">
+    <title lang="es">Father of the Bride</title>
+    <desc lang="es">Un padre se enfrenta a la próxima boda de su hija a través del prisma de múltiples relaciones dentro de un clan cubano-estadounidense grande y en expansión.</desc>
+    <date>2022</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130110000 +0000" stop="20241130130000 +0000" channel="HBO HD.ec">
+    <title lang="es">Megalodón 2: El gran abismo</title>
+    <desc lang="es">Jonas Taylor lidera un equipo de investigación en las profundidades del océano. Acorralados por colosales tiburones prehistóricos y despiadados bandidos, los científicos intentan sobrevivir a toda costa.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">CHN</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130130000 +0000" stop="20241130133000 +0000" channel="HBO HD.ec">
+    <title lang="es">True detective: Tierra nocturna</title>
+    <sub-title lang="es">Parte 1</sub-title>
+    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241130133000 +0000" stop="20241130160800 +0000" channel="HBO HD.ec">
+    <title lang="es">Harry Potter y el misterio del príncipe</title>
+    <desc lang="es">Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort.</desc>
+    <date>2009</date>
+    <country lang="es">USA</country>
+    <country lang="es">GBR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130160800 +0000" stop="20241130180300 +0000" channel="HBO HD.ec">
+    <title lang="es">El misterio de Salem's Lot</title>
+    <desc lang="es">Un escritor regresa a su ciudad natal y descubre que los residentes están siendo convertidos en vampiros.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241130180300 +0000" stop="20241130201300 +0000" channel="HBO HD.ec">
+    <title lang="es">Barbie</title>
+    <desc lang="es">Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la verdadera felicidad.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">GBR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130201300 +0000" stop="20241130224200 +0000" channel="HBO HD.ec">
+    <title lang="es">Flash</title>
+    <desc lang="es">Flash viaja a través del tiempo para evitar el asesinato de su madre, pero, sin saberlo, provoca una serie de cambios que originan la creación de un multiverso.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">CAN</country>
+    <country lang="es">AUS</country>
+    <country lang="es">NZL</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241130224200 +0000" stop="20241201010000 +0000" channel="HBO HD.ec">
+    <title lang="es">¡Shazam! La furia de los dioses</title>
+    <desc lang="es">Billy Batson y sus hermanos adoptivos Freddy, Mary, Pedro, Eugene y Darla, también dotados de superpoderes, tienen que enfrentarse a las tres hijas de Atlas: Hespera, Calipso y Anthea.</desc>
+    <date>2023</date>
+    <country lang="es">IND</country>
+    <country lang="es">USA</country>
+    <country lang="es">CAN</country>
+    <country lang="es">GBR</country>
+    <country lang="es">NZL</country>
+    <country lang="es">DEU</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201010000 +0000" stop="20241201024000 +0000" channel="HBO HD.ec">
+    <title lang="es">Harold and the Purple Crayon</title>
+    <desc lang="es">Dentro de su libro, el aventurero Harold puede hacer que cualquier cosa cobre vida simplemente dibujándola. Cuando crece y se dibuja a sí mismo fuera de las páginas del libro, Harold descubre que tiene mucho que aprender sobre la vida real.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201024000 +0000" stop="20241201045000 +0000" channel="HBO HD.ec">
+    <title lang="es">Barbie</title>
+    <desc lang="es">Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la verdadera felicidad.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">GBR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201045000 +0000" stop="20241201065400 +0000" channel="HBO HD.ec">
+    <title lang="es">300</title>
+    <desc lang="es">Leonidas, rey de Esparta, lucha con sus 300 guerreros hasta la muerte contra el numeroso ejército persa del rey Jerjes en la batalla de las Termópilas.</desc>
+    <date>2006</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241201065400 +0000" stop="20241201090000 +0000" channel="HBO HD.ec">
+    <title lang="es">En el corazón del mar</title>
+    <desc lang="es">Los tripulantes del ballenero del siglo XIX, Nantucket, enfrentan una batalla terrible por sobrevivir después del ataque de un cachalote gigante en el Pacífico, quedando tres meses a la deriva.</desc>
+    <date>2015</date>
+    <country lang="es">USA</country>
+    <country lang="es">ESP</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201090000 +0000" stop="20241201110500 +0000" channel="HBO HD.ec">
+    <title lang="es">Ángeles inesperados</title>
+    <desc lang="es">Una peluquera en apuros encuentra un propósito en la vida cuando conoce a un padre viudo y a sus dos hijas. Con su hija menor gravemente enferma a la espera de un trasplante de hígado, la abnegada mujer reúne a toda una comunidad para ayudarla.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201110500 +0000" stop="20241201130500 +0000" channel="HBO HD.ec">
+    <title lang="es">Una esposa de mentira</title>
+    <desc lang="es">El cirujano Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.</desc>
+    <date>2011</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201130500 +0000" stop="20241201150500 +0000" channel="HBO HD.ec">
+    <title lang="es">Godzilla y Kong: El nuevo imperio</title>
+    <desc lang="es">Godzilla y Kong se enfrentan a una amenaza colosal escondida en lo profundo del planeta, desafiando su propia existencia y la supervivencia de la raza humana.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <country lang="es">AUS</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241201150500 +0000" stop="20241201154000 +0000" channel="HBO HD.ec">
+    <title lang="es">True detective: Tierra nocturna</title>
+    <sub-title lang="es">Parte 1</sub-title>
+    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241201154000 +0000" stop="20241201181900 +0000" channel="HBO HD.ec">
+    <title lang="es">Bastardos sin gloria</title>
+    <desc lang="es">Segunda Guerra Mundial, Shosanna presencia la ejecución de su familia por orden del nazi Hans Landa. Mientras, el teniente Aldo Raine adiestra a un grupo de soldados judíos para llevar a cabo una misión que pretende hacer caer al Tercer Reich.</desc>
+    <date>2009</date>
+    <country lang="es">USA</country>
+    <country lang="es">DEU</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241201181900 +0000" stop="20241201201300 +0000" channel="HBO HD.ec">
+    <title lang="es">El Justiciero: Capítulo final</title>
+    <desc lang="es">El exagente McCall vive ahora retirado en el sur de Italia. No tarda en descubrir que la mafia está extorsionando a sus nuevos amigos, por lo que regresa a la acción para protegerlos.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">ITA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241201201300 +0000" stop="20241201224700 +0000" channel="HBO HD.ec">
+    <title lang="es">Furiosa: de la saga Mad Max</title>
+    <desc lang="es">La joven Furiosa es arrebatada del Paraje Verde de las Muchas Madres por una horda de motociclistas. El señor de la guerra que dirige su grupo se enfrenta a otro tirano y, mientras tanto, Furiosa aprovecha la batalla para intentar volver a casa.</desc>
+    <date>2024</date>
+    <country lang="es">AUS</country>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241201224700 +0000" stop="20241202010400 +0000" channel="HBO HD.ec">
+    <title lang="es">It Ends With Us</title>
+    <desc lang="es">Lily Bloom se enamora de un neurocirujano tras mudarse a Boston con el objetivo de abrir su propio negocio. Sin embargo, el primer amor de su vida retoma el contacto con ella, y Lily ahora no sabe qué hacer.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241202010400 +0000" stop="20241202020000 +0000" channel="HBO HD.ec">
+    <title lang="es">Como agua para chocolate</title>
+    <desc lang="es">Tita alimenta en secreto a Roberto, el hijo de Rosaura, creando un fuerte vínculo. Mamá Elena desaprueba esa conexión. Durante los preparativos para el bautizo, Mamá Elena recuerda su adúltera relación con Treviño y su trágico final.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20241202020000 +0000" stop="20241202030000 +0000" channel="HBO HD.ec">
+    <title lang="es">True detective: Tierra nocturna</title>
+    <sub-title lang="es">Parte 1</sub-title>
+    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241202030000 +0000" stop="20241202033500 +0000" channel="HBO HD.ec">
+    <title lang="es">Alguien en algún lugar</title>
+    <desc lang="es">Rodeada de su hermana y de la familia que eligió para Acción de Gracias, Sam comprende mejor lo que significa amar.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241202033500 +0000" stop="20241202040800 +0000" channel="HBO HD.ec">
+    <title lang="es">Alguien en algún lugar</title>
+    <desc lang="es">Sam lucha por encajar en el molde de su ciudad natal, lidiando con la pérdida y la aceptación, el canto es su gracia salvadora y la lleva en un viaje para descubrirse a sí misma y a una comunidad de extraños que no encajan y no se dan por vencidos.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241202040800 +0000" stop="20241202050800 +0000" channel="HBO HD.ec">
+    <title lang="es">True detective: Tierra nocturna</title>
+    <sub-title lang="es">Parte 1</sub-title>
+    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241202050800 +0000" stop="20241202060800 +0000" channel="HBO HD.ec">
+    <title lang="es">Como agua para chocolate</title>
+    <desc lang="es">Tita alimenta en secreto a Roberto, el hijo de Rosaura, creando un fuerte vínculo. Mamá Elena desaprueba esa conexión. Durante los preparativos para el bautizo, Mamá Elena recuerda su adúltera relación con Treviño y su trágico final.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20241202060800 +0000" stop="20241202075700 +0000" channel="HBO HD.ec">
+    <title lang="es">¿Qué pasó ayer? Parte 2</title>
+    <desc lang="es">Con la esperanza de evitar el caos que marcó su despedida de soltero en Las Vegas, Stu opta por lo que él cree que será una celebración tranquila en Tailandia.</desc>
+    <date>2011</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241202075700 +0000" stop="20241202090000 +0000" channel="HBO HD.ec">
+    <title lang="es">Nikki Glaser: Algún día morirás</title>
+    <desc lang="es">Nikki actúa y comparte lo que piensa, desde el envejecimiento y la paternidad hasta la muerte y sus fantasías.</desc>
+    <date>2024</date>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241202090000 +0000" stop="20241202105800 +0000" channel="HBO HD.ec">
+    <title lang="es">Pacific Rim Uprising</title>
+    <desc lang="es">Una raza alienígena intenta destruir la Tierra. A la humanidad solo le queda una esperanza, que Jake Pendergast, un prometedor piloto del programa de defensa que abandonó su carrera para dedicarse al crimen, acepte el reto de salvar el planeta.</desc>
+    <date>2018</date>
+    <country lang="es">USA</country>
+    <country lang="es">CHN</country>
+    <country lang="es">GBR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241202105800 +0000" stop="20241202124300 +0000" channel="HBO HD.ec">
+    <title lang="es">Como si fuera la primera vez</title>
+    <desc lang="es">Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.</desc>
+    <date>2004</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241202124300 +0000" stop="20241202142300 +0000" channel="HBO HD.ec">
+    <title lang="es">Kung Fu Panda 4</title>
+    <desc lang="es">Po está entrenando a un nuevo guerrero que ocupe su lugar para que él pueda convertirse en líder espiritual del Valle de la Paz. Sin embargo, la irrupción de una malvada hechicera que puede cambiar de apariencia trastoca sus planes.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <country lang="es">CHN</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241202142300 +0000" stop="20241202162500 +0000" channel="HBO HD.ec">
+    <title lang="es">Madame Web</title>
+    <desc lang="es">Una paramédica de Manhattan que se ve obligada a enfrentarse a revelaciones sobre su pasado forja una relación con tres jóvenes destinadas a tener un futuro poderoso, si consiguen sobrevivir a un presente mortal.</desc>
+    <date>2024</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241202162500 +0000" stop="20241202172000 +0000" channel="HBO HD.ec">
+    <title lang="es">Como agua para chocolate</title>
+    <desc lang="es">Tita alimenta en secreto a Roberto, el hijo de Rosaura, creando un fuerte vínculo. Mamá Elena desaprueba esa conexión. Durante los preparativos para el bautizo, Mamá Elena recuerda su adúltera relación con Treviño y su trágico final.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20241202172000 +0000" stop="20241202192000 +0000" channel="HBO HD.ec">
+    <title lang="es">Wonka</title>
+    <desc lang="es">Armado únicamente con muchos sueños y ganas de aventura, el joven chocolatero Willy Wonka conoce a los oompa-loompas y se dispone a cambiar el mundo.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">GBR</country>
+    <country lang="es">CAN</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241202192000 +0000" stop="20241202210500 +0000" channel="HBO HD.ec">
+    <title lang="es">Tell Them You Love Me</title>
+    <desc lang="es">Una estimada profesora se ve envuelta en un controvertido romance con un hombre con parálisis cerebral, que eventualmente conduce a un juicio penal que cuestiona las percepciones de discapacidad y la naturaleza del consentimiento.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">GBR</country>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20241202210500 +0000" stop="20241203001300 +0000" channel="HBO HD.ec">
+    <title lang="es">Oppenheimer</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, el teniente general Leslie Groves designa al físico J. Robert Oppenheimer para un grupo de trabajo que está desarrollando el Proyecto Manhattan, cuyo objetivo consiste en fabricar la primera bomba atómica.</desc>
+    <date>2023</date>
+    <country lang="es">USA</country>
+    <country lang="es">GBR</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
