@@ -1,666 +1,2456 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="CINEMAX"><display-name>CINEMAX</display-name></channel>
-<channel id="FILM and ARTS"><display-name>FILM and ARTS</display-name></channel>
-<channel id="LIFETIME"><display-name>LIFETIME</display-name></channel>
-<channel id="WARNER CHANNEL"><display-name>WARNER CHANNEL</display-name></channel>
-<channel id="UNIVERSAL CHANNEL.mx"><display-name>UNIVERSAL CHANNEL.mx</display-name></channel>
-<channel id="UNIVERSAL CINEMA.mx"><display-name>UNIVERSAL CINEMA.mx</display-name></channel>
-<channel id="UNIVERSAL COMEDY.mx"><display-name>UNIVERSAL COMEDY.mx</display-name></channel>
-<channel id="UNIVERSAL CRIME.mx"><display-name>UNIVERSAL CRIME.mx</display-name></channel>
-<channel id="UNIVERSAL PREMIERE.mx"><display-name>UNIVERSAL PREMIERE.mx</display-name></channel>
-<channel id="UNIVERSAL REALITY.mx"><display-name>UNIVERSAL REALITY.mx</display-name></channel>
-<channel id="USA NETWORK.mx"><display-name>USA NETWORK.mx</display-name></channel>
-<channel id="WARNER.mx"><display-name>WARNER.mx</display-name></channel>
-<channel id="StarCinema.us"><display-name>Star Cinema</display-name></channel>
-<channel id="StarClassics.us"><display-name>Star Classics</display-name></channel>
-<channel id="StarComedy.us"><display-name>Star Comedy</display-name></channel>
-<channel id="StarFunPlus3.us"><display-name>Star Fun</display-name></channel>
-<channel id="StarHits.us"><display-name>Star Hits</display-name></channel>
-<channel id="AMC HD.cl"><display-name>AMC HD.cl</display-name></channel>
-<channel id="CINECANAL HD.cl"><display-name>CINECANAL HD.cl</display-name></channel>
-<channel id="Cinemax HD.cl"><display-name>Cinemax HD.cl</display-name></channel>
-<channel id="CNN Esp HD.cl"><display-name>CNN Esp HD.cl</display-name></channel>
-<channel id="Discovery HD.cl"><display-name>Discovery HD.cl</display-name></channel>
-<channel id="E! ENTERTAINMENT HD.cl"><display-name>E! ENTERTAINMENT HD.cl</display-name></channel>
-<channel id="HBO MUNDI.cl"><display-name>HBO MUNDI.cl</display-name></channel>
-<channel id="HBO POP.cl"><display-name>HBO POP.cl</display-name></channel>
-<channel id="HBO SIGNATURE.cl"><display-name>HBO SIGNATURE.cl</display-name></channel>
-<channel id="HBO XTREME HD.cl"><display-name>HBO XTREME HD.cl</display-name></channel>
-<channel id="HOME and HEALTH HD.cl"><display-name>HOME and HEALTH HD.cl</display-name></channel>
-<channel id="LIFETIME HD.cl"><display-name>LIFETIME HD.cl</display-name></channel>
-<channel id="Paramount HD.cl"><display-name>Paramount HD.cl</display-name></channel>
-<channel id="SONY HD.cl"><display-name>SONY HD.cl</display-name></channel>
-<channel id="SPACE HD.cl"><display-name>SPACE HD.cl</display-name></channel>
-<channel id="STUDIO UNIVERSAL.cl"><display-name>STUDIO UNIVERSAL.cl</display-name></channel>
-<channel id="TNT SERIES.cl"><display-name>TNT SERIES.cl</display-name></channel>
-<channel id="Universal HD.cl"><display-name>Universal HD.cl</display-name></channel>
-<channel id="WARNER CHANNEL REGIONAL.cl"><display-name>WARNER CHANNEL REGIONAL.cl</display-name></channel>
-<channel id="Warner HD.cl"><display-name>Warner HD.cl</display-name></channel>
-<channel id="AMC HD.co"><display-name>AMC HD.co</display-name></channel>
-<channel id="ATRES SERIES HD.co"><display-name>ATRES SERIES HD.co</display-name></channel>
-<channel id="CINEMAX HD.co"><display-name>CINEMAX HD.co</display-name></channel>
-<channel id="DHE HD.co"><display-name>DHE HD.co</display-name></channel>
-<channel id="Discovery HandH.co"><display-name>Discovery HandH.co</display-name></channel>
-<channel id="E! Entertainment TV.co"><display-name>E! Entertainment TV.co</display-name></channel>
-<channel id="MTV 00S.co"><display-name>MTV 00S.co</display-name></channel>
-<channel id="MTV Live.co"><display-name>MTV Live.co</display-name></channel>
-<channel id="TNT HD.co"><display-name>TNT HD.co</display-name></channel>
-<channel id="WARNER CHANNEL HD.co"><display-name>WARNER CHANNEL HD.co</display-name></channel>
-<channel id="AandE HD.ec"><display-name>AandE HD.ec</display-name></channel>
-<channel id="ANIMAL PLANET HD.ec"><display-name>ANIMAL PLANET HD.ec</display-name></channel>
-<channel id="AXN HD.ec"><display-name>AXN HD.ec</display-name></channel>
-<channel id="CARTOON NETWORK HD.ec"><display-name>CARTOON NETWORK HD.ec</display-name></channel>
-<channel id="CINECANAL HD.ec"><display-name>CINECANAL HD.ec</display-name></channel>
-<channel id="CINEMAX HD.ec"><display-name>CINEMAX HD.ec</display-name></channel>
-<channel id="CNN ESPAÑOL.ec"><display-name>CNN ESPAÑOL.ec</display-name></channel>
-<channel id="DISCOVERY CHANNEL HD.ec"><display-name>DISCOVERY CHANNEL HD.ec</display-name></channel>
-<channel id="DISCOVERY TURBO.ec"><display-name>DISCOVERY TURBO.ec</display-name></channel>
-<channel id="DISNEY CHANNEL HD.ec"><display-name>DISNEY CHANNEL HD.ec</display-name></channel>
-<channel id="E! ENTERTAINMENT.ec"><display-name>E! ENTERTAINMENT.ec</display-name></channel>
-<channel id="FX HD.ec"><display-name>FX HD.ec</display-name></channel>
-<channel id="HBO 2 HD.ec"><display-name>HBO 2 HD.ec</display-name></channel>
-<channel id="HBO FAMILY HD.ec"><display-name>HBO FAMILY HD.ec</display-name></channel>
-<channel id="HBO HD.ec"><display-name>HBO HD.ec</display-name></channel>
-<channel id="HBO PLUS.ec"><display-name>HBO PLUS.ec</display-name></channel>
-<channel id="HOME and HEALTH HD.ec"><display-name>HOME and HEALTH HD.ec</display-name></channel>
-<channel id="ID - INVESTIGATION DISCOVERY.ec"><display-name>ID - INVESTIGATION DISCOVERY.ec</display-name></channel>
-<channel id="LIFETIME.ec"><display-name>LIFETIME.ec</display-name></channel>
-<channel id="MTV HD.ec"><display-name>MTV HD.ec</display-name></channel>
-<channel id="NAT GEO HD.ec"><display-name>NAT GEO HD.ec</display-name></channel>
-<channel id="PARAMOUNT HD.ec"><display-name>PARAMOUNT HD.ec</display-name></channel>
-<channel id="Sony Andes.ec"><display-name>Sony Andes.ec</display-name></channel>
-<channel id="SPACE HD.ec"><display-name>SPACE HD.ec</display-name></channel>
-<channel id="STAR Channel.ec"><display-name>STAR Channel.ec</display-name></channel>
-<channel id="STUDIO UNIVERSAL.ec"><display-name>STUDIO UNIVERSAL.ec</display-name></channel>
-<channel id="TNT HD.ec"><display-name>TNT HD.ec</display-name></channel>
-<channel id="TNT SERIES HD.ec"><display-name>TNT SERIES HD.ec</display-name></channel>
-<channel id="UNIVERSAL CHANNEL.ec"><display-name>UNIVERSAL CHANNEL.ec</display-name></channel>
-<channel id="USA.ec"><display-name>USA.ec</display-name></channel>
-<channel id="WARNER CHANNEL HD.ec"><display-name>WARNER CHANNEL HD.ec</display-name></channel>
-<channel id="DiscoveryHomeHealthPanregional.us"><display-name>Discovery Home and Health</display-name></channel>
-<channel id="AMCLatinAmerica.us"><display-name>AMC</display-name></channel>
-<channel id="Azteca7.mx"><display-name>Azteca 7</display-name></channel>
-<channel id="Canal5.mx"><display-name>Canal 5</display-name></channel>
-<channel id="Space.mx"><display-name>Space</display-name></channel>
-<channel id="StarChannel.mx"><display-name>Star Channel</display-name></channel>
-<channel id="TNT.mx"><display-name>TNT</display-name></channel>
-<channel id="WarnerChannel.mx"><display-name>Warner Channel</display-name></channel>
-<channel id="AandE.pe"><display-name>AandE.pe</display-name></channel>
-<channel id="AMC HD.pe"><display-name>AMC HD.pe</display-name></channel>
-<channel id="CINECANAL HD.pe"><display-name>CINECANAL HD.pe</display-name></channel>
-<channel id="CINEMAX HD.pe"><display-name>CINEMAX HD.pe</display-name></channel>
-<channel id="CNN INTERNACIONAL.pe"><display-name>CNN INTERNACIONAL.pe</display-name></channel>
-<channel id="DISCOVERY HD.pe"><display-name>DISCOVERY HD.pe</display-name></channel>
-<channel id="DISCOVERY THEATER HD.pe"><display-name>DISCOVERY THEATER HD.pe</display-name></channel>
-<channel id="DISCOVERY WORLD HD.pe"><display-name>DISCOVERY WORLD HD.pe</display-name></channel>
-<channel id="DISNEY.pe"><display-name>DISNEY.pe</display-name></channel>
-<channel id="EL GOURMET HD.pe"><display-name>EL GOURMET HD.pe</display-name></channel>
-<channel id="Europa Europa HD.pe"><display-name>Europa Europa HD.pe</display-name></channel>
-<channel id="FX HD.pe"><display-name>FX HD.pe</display-name></channel>
-<channel id="HBO 2.pe"><display-name>HBO 2.pe</display-name></channel>
-<channel id="HBO FAMILY ESTE.pe"><display-name>HBO FAMILY ESTE.pe</display-name></channel>
-<channel id="HBO FAMILY.pe"><display-name>HBO FAMILY.pe</display-name></channel>
-<channel id="HBO HD.pe"><display-name>HBO HD.pe</display-name></channel>
-<channel id="HOME and HEALTH HD.pe"><display-name>HOME and HEALTH HD.pe</display-name></channel>
-<channel id="INV.DISCOVERY HD.pe"><display-name>INV.DISCOVERY HD.pe</display-name></channel>
-<channel id="INVESTIGATION DISCOVERY.pe"><display-name>INVESTIGATION DISCOVERY.pe</display-name></channel>
-<channel id="Love Nature HD.pe"><display-name>Love Nature HD.pe</display-name></channel>
-<channel id="MTV HD.pe"><display-name>MTV HD.pe</display-name></channel>
-<channel id="NAT GEO HD.pe"><display-name>NAT GEO HD.pe</display-name></channel>
-<channel id="PARAMOUNT HD.pe"><display-name>PARAMOUNT HD.pe</display-name></channel>
-<channel id="SPACE HD.pe"><display-name>SPACE HD.pe</display-name></channel>
-<channel id="STAR CHANNEL HD.pe"><display-name>STAR CHANNEL HD.pe</display-name></channel>
-<channel id="STUDIO UNIVERSAL.pe"><display-name>STUDIO UNIVERSAL.pe</display-name></channel>
-<channel id="TNT HD.pe"><display-name>TNT HD.pe</display-name></channel>
-<channel id="TNT SERIES HD.pe"><display-name>TNT SERIES HD.pe</display-name></channel>
-<channel id="UNIVERSAL CHANNEL.pe"><display-name>UNIVERSAL CHANNEL.pe</display-name></channel>
-<channel id="WARNER CHANNEL HD.pe"><display-name>WARNER CHANNEL HD.pe</display-name></channel>
-<channel id="SS Tennis"><display-name>SS Tennis</display-name></channel>
-<channel id="TV4 Tennis (T).se"><display-name>TV4 Tennis (T).se</display-name></channel>
-<channel id="A3 Series HD.uy"><display-name>A3 Series HD.uy</display-name></channel>
-<channel id="AandE HD.uy"><display-name>AandE HD.uy</display-name></channel>
-<channel id="AMC HD.uy"><display-name>AMC HD.uy</display-name></channel>
-<channel id="Animal Planet HD.uy"><display-name>Animal Planet HD.uy</display-name></channel>
-<channel id="AXN HD.uy"><display-name>AXN HD.uy</display-name></channel>
-<channel id="Cartoon Network.uy"><display-name>Cartoon Network.uy</display-name></channel>
-<channel id="Cinecanal HD.uy"><display-name>Cinecanal HD.uy</display-name></channel>
-<channel id="Cinemax HD.uy"><display-name>Cinemax HD.uy</display-name></channel>
-<channel id="CNNenEspanol.us.uy"><display-name>CNN Español.uy</display-name></channel>
-<channel id="CNNInternationalLatinAmerica.us.uy"><display-name>CNN Internacional.uy</display-name></channel>
-<channel id="Discovery HD.uy"><display-name>Discovery HD.uy</display-name></channel>
-<channel id="Discovery Theater HD.uy"><display-name>Discovery Theater HD.uy</display-name></channel>
-<channel id="Discovery Turbo HD.uy"><display-name>Discovery Turbo HD.uy</display-name></channel>
-<channel id="Discovery World HD.uy"><display-name>Discovery World HD.uy</display-name></channel>
-<channel id="Disney Channel HD.uy"><display-name>Disney Channel HD.uy</display-name></channel>
-<channel id="E!.uy"><display-name>E!.uy</display-name></channel>
-<channel id="El Gourmet HD.uy"><display-name>El Gourmet HD.uy</display-name></channel>
-<channel id="EuropaEuropa.ar.uy"><display-name>Europa Europa HD.uy</display-name></channel>
-<channel id="Film and Arts HD.uy"><display-name>Film and Arts HD.uy</display-name></channel>
-<channel id="FX HD.uy"><display-name>FX HD.uy</display-name></channel>
-<channel id="HBO 2 HD.uy"><display-name>HBO 2 HD.uy</display-name></channel>
-<channel id="HBO HD.uy"><display-name>HBO HD.uy</display-name></channel>
-<channel id="HBO Plus HD.uy"><display-name>HBO Plus HD.uy</display-name></channel>
-<channel id="HBO POP HD.uy"><display-name>HBO POP HD.uy</display-name></channel>
-<channel id="HBOFamilyLatinAmerica.us.uy"><display-name>HBO Family.uy</display-name></channel>
-<channel id="HBOMundiLatinAmerica.us.uy"><display-name>HBO Mundi HD.uy</display-name></channel>
-<channel id="HBOSignatureLatinAmerica.us.uy"><display-name>HBO Signature HD.uy</display-name></channel>
-<channel id="HBOXtremeLatinAmerica.us.uy"><display-name>HBO Xtreme HD.uy</display-name></channel>
-<channel id="HomeandHealthHD.uy"><display-name>Home and Health HD.uy</display-name></channel>
-<channel id="Investigation Discovery.uy"><display-name>Investigation Discovery.uy</display-name></channel>
-<channel id="Lifetime.uy"><display-name>Lifetime.uy</display-name></channel>
-<channel id="Love Nature HD.uy"><display-name>Love Nature HD.uy</display-name></channel>
-<channel id="MTV HD.uy"><display-name>MTV HD.uy</display-name></channel>
-<channel id="National Geographic HD.uy"><display-name>National Geographic HD.uy</display-name></channel>
-<channel id="Paramount HD.uy"><display-name>Paramount HD.uy</display-name></channel>
-<channel id="Sony HD.uy"><display-name>Sony HD.uy</display-name></channel>
-<channel id="Space HD.uy"><display-name>Space HD.uy</display-name></channel>
-<channel id="STAR Channel HD.uy"><display-name>STAR Channel HD.uy</display-name></channel>
-<channel id="Studio Universal HD.uy"><display-name>Studio Universal HD.uy</display-name></channel>
-<channel id="TNT HD.uy"><display-name>TNT HD.uy</display-name></channel>
-<channel id="TNT Series HD.uy"><display-name>TNT Series HD.uy</display-name></channel>
-<channel id="Universal Cinema.uy"><display-name>Universal Cinema.uy</display-name></channel>
-<channel id="Universal Comedy.uy"><display-name>Universal Comedy.uy</display-name></channel>
-<channel id="Universal Crime.uy"><display-name>Universal Crime.uy</display-name></channel>
-<channel id="Universal HD.uy"><display-name>Universal HD.uy</display-name></channel>
-<channel id="Universal Premiere.uy"><display-name>Universal Premiere.uy</display-name></channel>
-<channel id="Universal Reality.uy"><display-name>Universal Reality.uy</display-name></channel>
-<channel id="USA.uy"><display-name>USA.uy</display-name></channel>
-<channel id="Warner HD.uy"><display-name>Warner HD.uy</display-name></channel>
-<channel id="SuperTennis HD.it"><display-name>SuperTennis HD.it</display-name></channel>
-<channel id="BBCOneEastHD.uk"><display-name>BBC One EastHD.uk</display-name></channel>
-<channel id="BBCTwoHD.uk"><display-name>BBC Two HD.uk</display-name></channel>
-<channel id="Eurosport1HD.uk"><display-name>Eurosport 1 HD.uk</display-name></channel>
-<channel id="Eurosport2HD.uk"><display-name>Eurosport 2 HD.uk</display-name></channel>
-<channel id="ITV1HD.uk"><display-name>ITV1 HD.uk</display-name></channel>
-<channel id="ITV2HD.uk"><display-name>ITV2 HD.uk</display-name></channel>
-<channel id="SkySportsTennis.uk"><display-name>SkySp Tennis.uk</display-name></channel>
-<channel id="SuperTennis.it"><display-name>SuperTennis TV</display-name></channel>
-<channel id="BBC News North America.us"><display-name>BBC News North America.us</display-name></channel>
-<channel id="Bravo (East).us"><display-name>Bravo (East).us</display-name></channel>
-<channel id="E! Entertainment Television (East).us"><display-name>E! Entertainment Television (East).us</display-name></channel>
-<channel id="ESPN News.us"><display-name>ESPN News.us</display-name></channel>
-<channel id="ESPN.us"><display-name>ESPN.us</display-name></channel>
-<channel id="ESPN2.us"><display-name>ESPN2.us</display-name></channel>
-<channel id="Fox News Channel (East).us"><display-name>Fox News Channel (East).us</display-name></channel>
-<channel id="Hallmark Channel (East).us"><display-name>Hallmark Channel (East).us</display-name></channel>
-<channel id="Hallmark Movies and Mysteries.us"><display-name>Hallmark Movies and Mysteries.us</display-name></channel>
-<channel id="HBO (East).us"><display-name>HBO (East).us</display-name></channel>
-<channel id="HBO 2 (East).us"><display-name>HBO 2 (East).us</display-name></channel>
-<channel id="HBO Comedy (East).us"><display-name>HBO Comedy (East).us</display-name></channel>
-<channel id="HBO Family (East).us"><display-name>HBO Family (East).us</display-name></channel>
-<channel id="HBO Latino (East).us"><display-name>HBO Latino (East).us</display-name></channel>
-<channel id="HBO Signature (East).us"><display-name>HBO Signature (East).us</display-name></channel>
-<channel id="HBO Zone (East).us"><display-name>HBO Zone (East).us</display-name></channel>
-<channel id="More Max (East).us"><display-name>More Max (East).us</display-name></channel>
-<channel id="MOVIEMAX SDTV.us"><display-name>MOVIEMAX SDTV.us</display-name></channel>
-<channel id="MTV (East).us"><display-name>MTV (East).us</display-name></channel>
-<channel id="Outer Max.us"><display-name>Outer Max.us</display-name></channel>
-<channel id="Tennis Channel.us"><display-name>Tennis Channel.us</display-name></channel>
-<channel id="The Golf Channel.us"><display-name>The Golf Channel.us</display-name></channel>
-<channel id="ThrillerMAX (East).us"><display-name>ThrillerMAX (East).us</display-name></channel>
-<channel id="WABC.us"><display-name>WABC.us</display-name></channel>
-<channel id="WCBS.us"><display-name>WCBS.us</display-name></channel>
-<channel id="WNBC.us"><display-name>WNBC.us</display-name></channel>
-<channel id="WNYW.us"><display-name>WNYW.us</display-name></channel>
-<channel id="WPIX.us"><display-name>WPIX.us</display-name></channel>
-<channel id="Fashion TV.ru"><display-name>Fashion TV.ru</display-name></channel>
-<channel id="BBC News HDTV.us"><display-name>BBC News HDTV.us</display-name></channel>
-<channel id="Starz (East).us"><display-name>Starz (East).us</display-name></channel>
-<channel id="STARZ Cinema (East).us"><display-name>STARZ Cinema (East).us</display-name></channel>
-<channel id="Starz Comedy (East).us"><display-name>Starz Comedy (East).us</display-name></channel>
-<channel id="STARZ Edge HD (East).us"><display-name>STARZ Edge HD (East).us</display-name></channel>
-<channel id="STARZ ENCORE Action (East).us"><display-name>STARZ ENCORE Action (East).us</display-name></channel>
-<channel id="STARZ ENCORE Family (East).us"><display-name>STARZ ENCORE Family (East).us</display-name></channel>
-<channel id="STARZ ENCORE Suspense (East).us"><display-name>STARZ ENCORE Suspense (East).us</display-name></channel>
-<channel id="Eurosport 1.es"><display-name>Eurosport 1.es</display-name></channel>
-<channel id="Eurosport 2.es"><display-name>Eurosport 2.es</display-name></channel>
-<channel id="M+ Deportes 2.es"><display-name>M+ Deportes 2.es</display-name></channel>
-<channel id="M+ Deportes 3.es"><display-name>M+ Deportes 3.es</display-name></channel>
-<channel id="M+ Deportes 4.es"><display-name>M+ Deportes 4.es</display-name></channel>
-<channel id="M+ Deportes 5.es"><display-name>M+ Deportes 5.es</display-name></channel>
-<channel id="M+ Deportes 6.es"><display-name>M+ Deportes 6.es</display-name></channel>
-<channel id="M+ Deportes 7.es"><display-name>M+ Deportes 7.es</display-name></channel>
-<channel id="M+ Deportes.es"><display-name>M+ Deportes.es</display-name></channel>
-<channel id="M+ Series.es"><display-name>M+ Series.es</display-name></channel>
-<channel id="Movistar Plus+.es"><display-name>Movistar Plus+.es</display-name></channel>
-<channel id="ESPN Deportes.us"><display-name>ESPN Deportes.us</display-name></channel>
-<channel id="ABC (KGO) San Francisco, CA HD (1007).us"><display-name>ABC (KGO) San Francisco, CA HD (1007).us</display-name></channel>
-<channel id="CNN (202).us"><display-name>CNN (202).us</display-name></channel>
-<channel id="NBC (KNTV) San Francisco, CA HD (1003).us"><display-name>NBC (KNTV) San Francisco, CA HD (1003).us</display-name></channel>
-<programme start="20241129174200 +0000" stop="20241129191700 +0000" channel="HBO HD.ec">
-    <title lang="es">Kung Fu Panda 4</title>
-    <desc lang="es">Po está entrenando a un nuevo guerrero que ocupe su lugar para que él pueda convertirse en líder espiritual del Valle de la Paz. Sin embargo, la irrupción de una malvada hechicera que puede cambiar de apariencia trastoca sus planes.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <country lang="es">CHN</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241129191700 +0000" stop="20241129215400 +0000" channel="HBO HD.ec">
-    <title lang="es">Batman vs. Superman: El origen de la justicia</title>
-    <desc lang="es">Batman se enfrenta a Superman, temeroso de que su afán de poder termine nublando su lucha contra la injusticia y lo convierta en un villano. Mientras los héroes pelean, una amenaza terrible se cierne sobre la humanidad.</desc>
-    <date>2016</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241129215400 +0000" stop="20241129222800 +0000" channel="HBO HD.ec">
-    <title lang="es">La franquicia</title>
-    <sub-title lang="es">Escena 117: La muerte de Ojo</sub-title>
-    <desc lang="es">El equipo de una película de franquicia poco querida que lucha por su lugar en un universo cinematográfico salvaje y rebelde.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241129222800 +0000" stop="20241130003000 +0000" channel="HBO HD.ec">
-    <title lang="es">Bad Boys: Hasta la muerte</title>
-    <desc lang="es">Los agentes Mike Lowrey y Marcus Burnett intentan limpiar la reputación de su jefe, a quien han acusado de trabajar para un cartel de narcotraficantes.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241130003000 +0000" stop="20241130010000 +0000" channel="HBO HD.ec">
-    <title lang="es">Sólo en Florida</title>
-    <desc lang="es">Un hombre de Pensacola, conocido por sus persecuciones a alta velocidad, se vuelve viral después de aparecer en un controvertido programa policial en línea que destaca su apariencia única.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241130010000 +0000" stop="20241130031000 +0000" channel="HBO HD.ec">
-    <title lang="es">Back to Black</title>
-    <desc lang="es">Inspirada por la complicada relación sentimental que mantiene con Blake Fielder-Civil, la cantante Amy Winehouse compone el álbum "Back to Black".</desc>
-    <date>2024</date>
-    <country lang="es">FRA</country>
-    <country lang="es">GBR</country>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241130031000 +0000" stop="20241130052500 +0000" channel="HBO HD.ec">
-    <title lang="es">Romper el círculo</title>
-    <desc lang="es">Lily Bloom se enamora de un neurocirujano tras mudarse a Boston con el objetivo de abrir su propio negocio. Sin embargo, el primer amor de su vida retoma el contacto con ella, y Lily ahora no sabe qué hacer.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130052500 +0000" stop="20241130073200 +0000" channel="HBO HD.ec">
-    <title lang="es">Jurassic World: Mundo Jurásico</title>
-    <desc lang="es">Una nueva especie de dinosaurio, creada por los científicos de forma artificial y más inteligente y peligrosa que las especies conocidas, ataca a los turistas que visitan el parque temático Jurassic World, situado en una isla frente a Costa Rica.</desc>
-    <date>2015</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130073200 +0000" stop="20241130090000 +0000" channel="HBO HD.ec">
-    <title lang="es">Mamá y papá</title>
-    <desc lang="es">Por algún motivo desconocido, todos los padres entran en un estado de histeria colectiva y quieren asesinar a sus hijos. Una adolescente y su hermano pequeño tratarán de sobrevivir a la locura homicida que se ha adueñado de la sociedad.</desc>
-    <date>2017</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241130090000 +0000" stop="20241130110000 +0000" channel="HBO HD.ec">
-    <title lang="es">Father of the Bride</title>
-    <desc lang="es">Un padre se enfrenta a la próxima boda de su hija a través del prisma de múltiples relaciones dentro de un clan cubano-estadounidense grande y en expansión.</desc>
-    <date>2022</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130110000 +0000" stop="20241130130000 +0000" channel="HBO HD.ec">
-    <title lang="es">Megalodón 2: El gran abismo</title>
-    <desc lang="es">Jonas Taylor lidera un equipo de investigación en las profundidades del océano. Acorralados por colosales tiburones prehistóricos y despiadados bandidos, los científicos intentan sobrevivir a toda costa.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">CHN</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130130000 +0000" stop="20241130133000 +0000" channel="HBO HD.ec">
-    <title lang="es">True detective: Tierra nocturna</title>
-    <sub-title lang="es">Parte 1</sub-title>
-    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241130133000 +0000" stop="20241130160800 +0000" channel="HBO HD.ec">
-    <title lang="es">Harry Potter y el misterio del príncipe</title>
-    <desc lang="es">Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort.</desc>
-    <date>2009</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130160800 +0000" stop="20241130180300 +0000" channel="HBO HD.ec">
-    <title lang="es">El misterio de Salem's Lot</title>
-    <desc lang="es">Un escritor regresa a su ciudad natal y descubre que los residentes están siendo convertidos en vampiros.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241130180300 +0000" stop="20241130201300 +0000" channel="HBO HD.ec">
-    <title lang="es">Barbie</title>
-    <desc lang="es">Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la verdadera felicidad.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130201300 +0000" stop="20241130224200 +0000" channel="HBO HD.ec">
-    <title lang="es">Flash</title>
-    <desc lang="es">Flash viaja a través del tiempo para evitar el asesinato de su madre, pero, sin saberlo, provoca una serie de cambios que originan la creación de un multiverso.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">CAN</country>
-    <country lang="es">AUS</country>
-    <country lang="es">NZL</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241130224200 +0000" stop="20241201010000 +0000" channel="HBO HD.ec">
-    <title lang="es">¡Shazam! La furia de los dioses</title>
-    <desc lang="es">Billy Batson y sus hermanos adoptivos Freddy, Mary, Pedro, Eugene y Darla, también dotados de superpoderes, tienen que enfrentarse a las tres hijas de Atlas: Hespera, Calipso y Anthea.</desc>
-    <date>2023</date>
-    <country lang="es">IND</country>
-    <country lang="es">USA</country>
-    <country lang="es">CAN</country>
-    <country lang="es">GBR</country>
-    <country lang="es">NZL</country>
-    <country lang="es">DEU</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201010000 +0000" stop="20241201024000 +0000" channel="HBO HD.ec">
-    <title lang="es">Harold and the Purple Crayon</title>
-    <desc lang="es">Dentro de su libro, el aventurero Harold puede hacer que cualquier cosa cobre vida simplemente dibujándola. Cuando crece y se dibuja a sí mismo fuera de las páginas del libro, Harold descubre que tiene mucho que aprender sobre la vida real.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201024000 +0000" stop="20241201045000 +0000" channel="HBO HD.ec">
-    <title lang="es">Barbie</title>
-    <desc lang="es">Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la verdadera felicidad.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201045000 +0000" stop="20241201065400 +0000" channel="HBO HD.ec">
-    <title lang="es">300</title>
-    <desc lang="es">Leonidas, rey de Esparta, lucha con sus 300 guerreros hasta la muerte contra el numeroso ejército persa del rey Jerjes en la batalla de las Termópilas.</desc>
-    <date>2006</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241201065400 +0000" stop="20241201090000 +0000" channel="HBO HD.ec">
-    <title lang="es">En el corazón del mar</title>
-    <desc lang="es">Los tripulantes del ballenero del siglo XIX, Nantucket, enfrentan una batalla terrible por sobrevivir después del ataque de un cachalote gigante en el Pacífico, quedando tres meses a la deriva.</desc>
-    <date>2015</date>
-    <country lang="es">USA</country>
-    <country lang="es">ESP</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201090000 +0000" stop="20241201110500 +0000" channel="HBO HD.ec">
-    <title lang="es">Ángeles inesperados</title>
-    <desc lang="es">Una peluquera en apuros encuentra un propósito en la vida cuando conoce a un padre viudo y a sus dos hijas. Con su hija menor gravemente enferma a la espera de un trasplante de hígado, la abnegada mujer reúne a toda una comunidad para ayudarla.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201110500 +0000" stop="20241201130500 +0000" channel="HBO HD.ec">
-    <title lang="es">Una esposa de mentira</title>
-    <desc lang="es">El cirujano Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.</desc>
-    <date>2011</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201130500 +0000" stop="20241201150500 +0000" channel="HBO HD.ec">
-    <title lang="es">Godzilla y Kong: El nuevo imperio</title>
-    <desc lang="es">Godzilla y Kong se enfrentan a una amenaza colosal escondida en lo profundo del planeta, desafiando su propia existencia y la supervivencia de la raza humana.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <country lang="es">AUS</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241201150500 +0000" stop="20241201154000 +0000" channel="HBO HD.ec">
-    <title lang="es">True detective: Tierra nocturna</title>
-    <sub-title lang="es">Parte 1</sub-title>
-    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241201154000 +0000" stop="20241201181900 +0000" channel="HBO HD.ec">
-    <title lang="es">Bastardos sin gloria</title>
-    <desc lang="es">Segunda Guerra Mundial, Shosanna presencia la ejecución de su familia por orden del nazi Hans Landa. Mientras, el teniente Aldo Raine adiestra a un grupo de soldados judíos para llevar a cabo una misión que pretende hacer caer al Tercer Reich.</desc>
-    <date>2009</date>
-    <country lang="es">USA</country>
-    <country lang="es">DEU</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241201181900 +0000" stop="20241201201300 +0000" channel="HBO HD.ec">
-    <title lang="es">El Justiciero: Capítulo final</title>
-    <desc lang="es">El exagente McCall vive ahora retirado en el sur de Italia. No tarda en descubrir que la mafia está extorsionando a sus nuevos amigos, por lo que regresa a la acción para protegerlos.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">ITA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241201201300 +0000" stop="20241201224700 +0000" channel="HBO HD.ec">
-    <title lang="es">Furiosa: de la saga Mad Max</title>
-    <desc lang="es">La joven Furiosa es arrebatada del Paraje Verde de las Muchas Madres por una horda de motociclistas. El señor de la guerra que dirige su grupo se enfrenta a otro tirano y, mientras tanto, Furiosa aprovecha la batalla para intentar volver a casa.</desc>
-    <date>2024</date>
-    <country lang="es">AUS</country>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241201224700 +0000" stop="20241202010400 +0000" channel="HBO HD.ec">
-    <title lang="es">It Ends With Us</title>
-    <desc lang="es">Lily Bloom se enamora de un neurocirujano tras mudarse a Boston con el objetivo de abrir su propio negocio. Sin embargo, el primer amor de su vida retoma el contacto con ella, y Lily ahora no sabe qué hacer.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241202010400 +0000" stop="20241202020000 +0000" channel="HBO HD.ec">
-    <title lang="es">Como agua para chocolate</title>
-    <desc lang="es">Tita alimenta en secreto a Roberto, el hijo de Rosaura, creando un fuerte vínculo. Mamá Elena desaprueba esa conexión. Durante los preparativos para el bautizo, Mamá Elena recuerda su adúltera relación con Treviño y su trágico final.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20241202020000 +0000" stop="20241202030000 +0000" channel="HBO HD.ec">
-    <title lang="es">True detective: Tierra nocturna</title>
-    <sub-title lang="es">Parte 1</sub-title>
-    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241202030000 +0000" stop="20241202033500 +0000" channel="HBO HD.ec">
-    <title lang="es">Alguien en algún lugar</title>
-    <desc lang="es">Rodeada de su hermana y de la familia que eligió para Acción de Gracias, Sam comprende mejor lo que significa amar.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241202033500 +0000" stop="20241202040800 +0000" channel="HBO HD.ec">
-    <title lang="es">Alguien en algún lugar</title>
-    <desc lang="es">Sam lucha por encajar en el molde de su ciudad natal, lidiando con la pérdida y la aceptación, el canto es su gracia salvadora y la lleva en un viaje para descubrirse a sí misma y a una comunidad de extraños que no encajan y no se dan por vencidos.</desc>
-    <date>2022</date>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241202040800 +0000" stop="20241202050800 +0000" channel="HBO HD.ec">
-    <title lang="es">True detective: Tierra nocturna</title>
-    <sub-title lang="es">Parte 1</sub-title>
-    <desc lang="es">Cae la larga noche invernal en Ennis, Alaska. Los hombres que operan la estación de investigación ártica Tsalal desaparecen sin dejar rastro. Las detectives Liz Danvers y Evangeline Navarro deben investigar el caso en una gélida oscuridad.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241202050800 +0000" stop="20241202060800 +0000" channel="HBO HD.ec">
-    <title lang="es">Como agua para chocolate</title>
-    <desc lang="es">Tita alimenta en secreto a Roberto, el hijo de Rosaura, creando un fuerte vínculo. Mamá Elena desaprueba esa conexión. Durante los preparativos para el bautizo, Mamá Elena recuerda su adúltera relación con Treviño y su trágico final.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20241202060800 +0000" stop="20241202075700 +0000" channel="HBO HD.ec">
-    <title lang="es">¿Qué pasó ayer? Parte 2</title>
-    <desc lang="es">Con la esperanza de evitar el caos que marcó su despedida de soltero en Las Vegas, Stu opta por lo que él cree que será una celebración tranquila en Tailandia.</desc>
-    <date>2011</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241202075700 +0000" stop="20241202090000 +0000" channel="HBO HD.ec">
-    <title lang="es">Nikki Glaser: Algún día morirás</title>
-    <desc lang="es">Nikki actúa y comparte lo que piensa, desde el envejecimiento y la paternidad hasta la muerte y sus fantasías.</desc>
-    <date>2024</date>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241202090000 +0000" stop="20241202105800 +0000" channel="HBO HD.ec">
-    <title lang="es">Pacific Rim Uprising</title>
-    <desc lang="es">Una raza alienígena intenta destruir la Tierra. A la humanidad solo le queda una esperanza, que Jake Pendergast, un prometedor piloto del programa de defensa que abandonó su carrera para dedicarse al crimen, acepte el reto de salvar el planeta.</desc>
-    <date>2018</date>
-    <country lang="es">USA</country>
-    <country lang="es">CHN</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241202105800 +0000" stop="20241202124300 +0000" channel="HBO HD.ec">
-    <title lang="es">Como si fuera la primera vez</title>
-    <desc lang="es">Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.</desc>
-    <date>2004</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241202124300 +0000" stop="20241202142300 +0000" channel="HBO HD.ec">
-    <title lang="es">Kung Fu Panda 4</title>
-    <desc lang="es">Po está entrenando a un nuevo guerrero que ocupe su lugar para que él pueda convertirse en líder espiritual del Valle de la Paz. Sin embargo, la irrupción de una malvada hechicera que puede cambiar de apariencia trastoca sus planes.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <country lang="es">CHN</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241202142300 +0000" stop="20241202162500 +0000" channel="HBO HD.ec">
-    <title lang="es">Madame Web</title>
-    <desc lang="es">Una paramédica de Manhattan que se ve obligada a enfrentarse a revelaciones sobre su pasado forja una relación con tres jóvenes destinadas a tener un futuro poderoso, si consiguen sobrevivir a un presente mortal.</desc>
-    <date>2024</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241202162500 +0000" stop="20241202172000 +0000" channel="HBO HD.ec">
-    <title lang="es">Como agua para chocolate</title>
-    <desc lang="es">Tita alimenta en secreto a Roberto, el hijo de Rosaura, creando un fuerte vínculo. Mamá Elena desaprueba esa conexión. Durante los preparativos para el bautizo, Mamá Elena recuerda su adúltera relación con Treviño y su trágico final.</desc>
-    <date>2024</date>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20241202172000 +0000" stop="20241202192000 +0000" channel="HBO HD.ec">
-    <title lang="es">Wonka</title>
-    <desc lang="es">Armado únicamente con muchos sueños y ganas de aventura, el joven chocolatero Willy Wonka conoce a los oompa-loompas y se dispone a cambiar el mundo.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <country lang="es">CAN</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241202192000 +0000" stop="20241202210500 +0000" channel="HBO HD.ec">
-    <title lang="es">Tell Them You Love Me</title>
-    <desc lang="es">Una estimada profesora se ve envuelta en un controvertido romance con un hombre con parálisis cerebral, que eventualmente conduce a un juicio penal que cuestiona las percepciones de discapacidad y la naturaleza del consentimiento.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>AGE228</value>
-    </rating>
-  </programme>
-  <programme start="20241202210500 +0000" stop="20241203001300 +0000" channel="HBO HD.ec">
-    <title lang="es">Oppenheimer</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, el teniente general Leslie Groves designa al físico J. Robert Oppenheimer para un grupo de trabajo que está desarrollando el Proyecto Manhattan, cuyo objetivo consiste en fabricar la primera bomba atómica.</desc>
-    <date>2023</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epg_grabber">
+  <channel id="Canal Max UP">
+    <display-name lang="es">Canal Max UP</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+    <channel id="Canal HBO">
+    <display-name lang="es">Canal HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+   <programme start="20241205002500 -0600" stop="20241205010000 -0600" channel="Canal Max UP">
+<title lang="es">Somebody Somewhere</title>
+<sub-title lang="es">S3-Ep6</sub-title>
+<episode-num system="onscreen">S3-Ep6</episode-num>
+</programme>
+<programme start="20241205010000 -0600" stop="20241205030000 -0600" channel="Canal Max UP">
+<title lang="es">The Machine</title>
+</programme>
+<programme start="20241205030000 -0600" stop="20241205051900 -0600" channel="Canal Max UP">
+<title lang="es">Simplemente no te quiere</title>
+</programme>
+<programme start="20241205051900 -0600" stop="20241205070900 -0600" channel="Canal Max UP">
+<title lang="es">Los fantasmas de mi ex</title>
+</programme>
+<programme start="20241205070900 -0600" stop="20241205085900 -0600" channel="Canal Max UP">
+<title lang="es">Click Perdiendo el Control</title>
+</programme>
+<programme start="20241205085900 -0600" stop="20241205110000 -0600" channel="Canal Max UP">
+<title lang="es">Barbie</title>
+</programme>
+<programme start="20241205110000 -0600" stop="20241205131500 -0600" channel="Canal Max UP">
+<title lang="es">Simplemente no te quiere</title>
+</programme>
+<programme start="20241205131500 -0600" stop="20241205152000 -0600" channel="Canal Max UP">
+<title lang="es">Cuestión de Tiempo (About Time)&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/cuestion_de_tiempo_about_time/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/cuestion_de_tiempo_about_time.jpg" width="160" height="240" alt="Cuestión de Tiempo (About Time)" title="Cuestión de Tiempo (About Time)" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2015-05-20"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2013" &gt;&lt;span itemprop="copyrightYear"&gt;2013&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">About Time</title>
+<desc lang="es">A la edad de 21 años, Tim descubre que es capaz de viajar en el tiempo y cambiar lo que ha sucedido en su propia vida.(n)</desc>
+<credits>
+<actor>Domhnall Gleeson</actor>
+<actor>Rachel McAdams</actor>
+<actor>Bill Nighy</actor>
+<actor>Tom Hollander</actor>
+<actor>Margot Robbie</actor>
+<producer>Tim Bevan</producer>
+<producer>Eric Fellner</producer>
+<producer>Nicky Kentish Barnes</producer>
+<composer>Nick Laird-Clowes</composer>
+</credits>
+<date>2013</date>
+<category lang="es">Drama</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Romance</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cuestion_de_tiempo_about_time.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241205152000 -0600" stop="20241205155000 -0600" channel="Canal Max UP">
+<title lang="es">Sólo en Florida</title>
+<sub-title lang="es">S1-Ep6</sub-title>
+<episode-num system="onscreen">S1-Ep6</episode-num>
+</programme>
+<programme start="20241205155000 -0600" stop="20241205162500 -0600" channel="Canal Max UP">
+<title lang="es">Somebody Somewhere</title>
+<sub-title lang="es">S3-Ep6</sub-title>
+<episode-num system="onscreen">S3-Ep6</episode-num>
+</programme>
+<programme start="20241205162500 -0600" stop="20241205182500 -0600" channel="Canal Max UP">
+<title lang="es">Barbie</title>
+</programme>
+<programme start="20241205182500 -0600" stop="20241205200000 -0600" channel="Canal Max UP">
+<title lang="es">Mi gran boda griega 3</title>
+</programme>
+<programme start="20241205200000 -0600" stop="20241205213500 -0600" channel="Canal Max UP">
+<title lang="es">Alex Edelman Sólo para</title>
+</programme>
+<programme start="20241205213500 -0600" stop="20241205232000 -0600" channel="Canal Max UP">
+<title lang="es">Son como niños</title>
+</programme>
+<programme start="20241205232000 -0600" stop="20241206005500 -0600" channel="Canal Max UP">
+<title lang="es">Hijos de Perra&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/hijos_de_perra/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/hijos_de_perra.jpg" width="160" height="240" alt="Hijos de Perra" title="Hijos de Perra" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-07-31"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Strays</title>
+<desc lang="es">Tras ser abandonado en la ciudad de Boston, un Border Terrier ingenuo busca cobrar venganza de su antiguo dueño con la ayuda de tres perros callejeros.(n)</desc>
+<credits>
+<actor>Will Ferrell</actor>
+<actor>Jamie Foxx</actor>
+<actor>Will Forte</actor>
+<actor>Isla Fisher</actor>
+<actor>Randall Park</actor>
+<actor>Josh Gad</actor>
+<actor>Harvey Guillén</actor>
+<actor>Rob Riggle</actor>
+<actor>Brett Gelman</actor>
+<actor>Jamie Demetriou</actor>
+<actor>Sofia Vergara</actor>
+<producer>Erik Feig</producer>
+<producer>Josh Greenbaum</producer>
+<producer>Louis Leterrier</producer>
+<producer>Phil Lord</producer>
+<producer>Christopher Miller</producer>
+<producer>Aditya Sood</producer>
+<composer>Dara Taylor</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Animación</category>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hijos_de_perra.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241206232000 -0600" stop="20241207005500 -0600" channel="Canal Max UP">
+<title lang="es">Hijos de Perra&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/hijos_de_perra/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/hijos_de_perra.jpg" width="160" height="240" alt="Hijos de Perra" title="Hijos de Perra" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-07-31"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Strays</title>
+<desc lang="es">Tras ser abandonado en la ciudad de Boston, un Border Terrier ingenuo busca cobrar venganza de su antiguo dueño con la ayuda de tres perros callejeros.(n)</desc>
+<credits>
+<actor>Will Ferrell</actor>
+<actor>Jamie Foxx</actor>
+<actor>Will Forte</actor>
+<actor>Isla Fisher</actor>
+<actor>Randall Park</actor>
+<actor>Josh Gad</actor>
+<actor>Harvey Guillén</actor>
+<actor>Rob Riggle</actor>
+<actor>Brett Gelman</actor>
+<actor>Jamie Demetriou</actor>
+<actor>Sofia Vergara</actor>
+<producer>Erik Feig</producer>
+<producer>Josh Greenbaum</producer>
+<producer>Louis Leterrier</producer>
+<producer>Phil Lord</producer>
+<producer>Christopher Miller</producer>
+<producer>Aditya Sood</producer>
+<composer>Dara Taylor</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Animación</category>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hijos_de_perra.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241207005500 -0600" stop="20241207030000 -0600" channel="Canal Max UP">
+<title lang="es">De vuelta a Las Vegas</title>
+</programme>
+<programme start="20241207030000 -0600" stop="20241207050000 -0600" channel="Canal Max UP">
+<title lang="es">El hombre del año</title>
+</programme>
+<programme start="20241207050000 -0600" stop="20241207064500 -0600" channel="Canal Max UP">
+<title lang="es">Casi Divas&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/casi_divas.png" width="160" height="240" alt="Casi Divas" title="Casi Divas" /&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2008" &gt;&lt;span itemprop="copyrightYear"&gt;2008&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<desc lang="es">2008 Dir: Issa López, Actores: Patricia Llaca, Julio Bracho. Un importante productor de cine comienza un casting para encontrar a la protagonista de su próxima película.(c)</desc>
+<credits>
+<actor>Patricia Llaca</actor>
+<actor>Julio Bracho</actor>
+<actor>Ana Layevska</actor>
+<actor>Diana Garcia</actor>
+<actor>Daniela Schmidt</actor>
+<actor>Maya Zapata</actor>
+</credits>
+<date>2008</date>
+<category lang="es">Comedia</category>
+<category lang="es">Musical</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/casi_divas.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241207064500 -0600" stop="20241207083000 -0600" channel="Canal Max UP">
+<title lang="es">Amor a distancia</title>
+</programme>
+<programme start="20241207083000 -0600" stop="20241207102500 -0600" channel="Canal Max UP">
+<title lang="es">Magic Mike El último baile</title>
+</programme>
+<programme start="20241207102500 -0600" stop="20241207123000 -0600" channel="Canal Max UP">
+<title lang="es">La Estafa de los Logan&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/la_estafa_de_los_logan/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/la_estafa_de_los_logan.jpg" width="160" height="240" alt="La Estafa de los Logan" title="La Estafa de los Logan" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2017" &gt;&lt;span itemprop="copyrightYear"&gt;2017&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Logan Lucky</title>
+<desc lang="es">Los hermanos Jimmy y Clyde Logan planean un asalto elaborado para librarse de una maldición familiar durante la legendaria carrera de Coca-Cola 600.(c)</desc>
+<credits>
+<actor>Channing Tatum</actor>
+<actor>Adam Driver</actor>
+<actor>Seth MacFarlane</actor>
+<actor>Riley Keough</actor>
+<actor>Katie Holmes</actor>
+<actor>Katherine Waterston</actor>
+<actor>Dwight Yoakam</actor>
+<actor>Sebastian Stan</actor>
+<actor>Hilary Swank</actor>
+<actor>Daniel Craig</actor>
+<producer>Gregory Jacobs</producer>
+<producer>Mark Johnson</producer>
+<producer>Channing Tatum</producer>
+<producer>Reid Carolin</producer>
+<composer>David Holmes</composer>
+</credits>
+<date>2017</date>
+<category lang="es">Comedia</category>
+<category lang="es">Drama</category>
+<category lang="es">Romance</category>
+<category lang="es">Crimen</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_estafa_de_los_logan.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241207123000 -0600" stop="20241207140500 -0600" channel="Canal Max UP">
+<title lang="es">Shortcomings</title>
+</programme>
+<programme start="20241207140500 -0600" stop="20241207154000 -0600" channel="Canal Max UP">
+<title lang="es">Operación Casino</title>
+</programme>
+<programme start="20241207154000 -0600" stop="20241207172000 -0600" channel="Canal Max UP">
+<title lang="es">Feliz Día de tu Muerte&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/feliz_dia_de_tu_muerte/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/feliz_dia_de_tu_muerte.jpg" width="160" height="240" alt="Feliz Día de tu Muerte" title="Feliz Día de tu Muerte" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2021-07-21"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2017" &gt;&lt;span itemprop="copyrightYear"&gt;2017&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Happy Death Day</title>
+<desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado. Ella revivirá cada vez hasta que descubra quien es su asesino.(c)</desc>
+<credits>
+<actor>Jessica Rothe</actor>
+<actor>Israel Broussard</actor>
+<actor>Ruby Modine</actor>
+<actor>Rachel Matthews</actor>
+<actor>Charles Aitken</actor>
+<producer>Jason Blum</producer>
+<producer>Angela Mancuso</producer>
+<producer>Ryan Turek</producer>
+<producer>John Baldecchi</producer>
+<producer>Seth William Meier</producer>
+<composer>Bear McCreary</composer>
+</credits>
+<date>2017</date>
+<category lang="es">Terror</category>
+<category lang="es">Misterio</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/feliz_dia_de_tu_muerte.jpg" />
+</programme>
+<programme start="20241207172000 -0600" stop="20241207175000 -0600" channel="Canal Max UP">
+<title lang="es">Sólo en Florida</title>
+<sub-title lang="es">S1-Ep6</sub-title>
+<episode-num system="onscreen">S1-Ep6</episode-num>
+</programme>
+<programme start="20241207175000 -0600" stop="20241207194000 -0600" channel="Canal Max UP">
+<title lang="es">Policias de repuesto</title>
+</programme>
+<programme start="20241207194000 -0600" stop="20241207212500 -0600" channel="Canal Max UP">
+<title lang="es">Buenos Vecinos&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/buenos_vecinos/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/buenos_vecinos.jpg" width="160" height="240" alt="Buenos Vecinos" title="Buenos Vecinos" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2014-07-03"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2014" &gt;&lt;span itemprop="copyrightYear"&gt;2014&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Neighbors</title>
+<desc lang="es">Una pareja con un bebe recién nacido deberán enfrentar la dificultad de vivir junto a una casa de fraternidad de estudiantes.(c)</desc>
+<credits>
+<actor>Seth Rogen</actor>
+<actor>Zac Efron</actor>
+<actor>Rose Byrne</actor>
+<actor>Christopher Mintz-Plasse</actor>
+<actor>Dave Franco</actor>
+<producer>Evan Goldberg</producer>
+<producer>Seth Rogen</producer>
+<producer>James Weaver</producer>
+</credits>
+<date>2014</date>
+<category lang="es">Comedia</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/buenos_vecinos.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241207212500 -0600" stop="20241207230000 -0600" channel="Canal Max UP">
+<title lang="es">Buenos vecinos 2</title>
+</programme>
+<programme start="20241207230000 -0600" stop="20241208000000 -0600" channel="Canal Max UP">
+<title lang="es">Como agua para chocolate</title>
+<sub-title lang="es">S1-Ep5</sub-title>
+<episode-num system="onscreen">S1-Ep5</episode-num>
+</programme>
+<programme start="20241208000000 -0600" stop="20241208013500 -0600" channel="Canal Max UP">
+<title lang="es">La lista de los besos</title>
+</programme>
+<programme start="20241208013500 -0600" stop="20241208030000 -0600" channel="Canal Max UP">
+<title lang="es">Interés por la muerte</title>
+</programme>
+<programme start="20241208030000 -0600" stop="20241208051000 -0600" channel="Canal Max UP">
+<title lang="es">Un equipo muy especial</title>
+</programme>
+<programme start="20241208051000 -0600" stop="20241208070000 -0600" channel="Canal Max UP">
+<title lang="es">Dos inútiles en patrulla</title>
+</programme>
+<programme start="20241208070000 -0600" stop="20241208083500 -0600" channel="Canal Max UP">
+<title lang="es">Héroe de centro comercial</title>
+</programme>
+<programme start="20241208083500 -0600" stop="20241208105000 -0600" channel="Canal Max UP">
+<title lang="es">Bienvenido a los 40&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/bienvenido_a_los_40/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/bienvenido_a_los_40.jpg" width="160" height="240" alt="Bienvenido a los 40" title="Bienvenido a los 40" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2012" &gt;&lt;span itemprop="copyrightYear"&gt;2012&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">This Is 40</title>
+<desc lang="es">Una pareja que está por cumplir 40 años, sus hijos se odian el uno al otro, económicamente no andan bien y su relación matrimonial peligra con la separación.(c)</desc>
+<credits>
+<actor>Paul Rudd</actor>
+<actor>Leslie Mann</actor>
+<actor>John Lithgow</actor>
+<actor>Megan Fox</actor>
+<actor>Albert Brooks</actor>
+<producer>Judd Apatow</producer>
+<producer>Clayton Townsend</producer>
+<producer>Barry Mendel</producer>
+<composer>Jon Brion</composer>
+</credits>
+<date>2012</date>
+<category lang="es">Comedia</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/bienvenido_a_los_40.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241208105000 -0600" stop="20241208112500 -0600" channel="Canal Max UP">
+<title lang="es">Somebody Somewhere</title>
+<sub-title lang="es">S3-Ep6</sub-title>
+<episode-num system="onscreen">S3-Ep6</episode-num>
+</programme>
+<programme start="20241208112500 -0600" stop="20241208131000 -0600" channel="Canal Max UP">
+<title lang="es">Hazme el Favor&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/hazme_el_favor/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/hazme_el_favor.jpg" width="160" height="240" alt="Hazme el Favor" title="Hazme el Favor" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-06-17"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">No Hard Feelings</title>
+<desc lang="es">Una chica con problemas económicos descubre un anunció de trabajo: padres acaudalados buscan a alguien que "salga" con su introvertido hijo de 19 años.(c)</desc>
+<credits>
+<actor>Jennifer Lawrence</actor>
+<actor>Andrew Barth Feldman</actor>
+<actor>Matthew Broderick</actor>
+<actor>Laura Benanti</actor>
+<actor>Natalie Morales</actor>
+<actor>Scott MacArthur</actor>
+<actor>Ebon Moss-Bachrach</actor>
+<actor>Hasan Minhaj</actor>
+<actor>Kyle Mooney</actor>
+<producer>Alex Saks</producer>
+<producer>Naomi Odenkirk</producer>
+<producer>Marc Provissiero</producer>
+<producer>Jennifer Lawrence</producer>
+<producer>Justine Ciarrocchi</producer>
+</credits>
+<date>2023</date>
+<category lang="es">Comedia</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hazme_el_favor.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241208131000 -0600" stop="20241208152000 -0600" channel="Canal Max UP">
+<title lang="es">Cincuenta Sombras de Grey&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/cincuenta_sombras_de_grey/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/cincuenta_sombras_de_grey.jpg" width="160" height="240" alt="Cincuenta Sombras de Grey" title="Cincuenta Sombras de Grey" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2022-07-23"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2015" &gt;&lt;span itemprop="copyrightYear"&gt;2015&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="4" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="4/10" alt="4/10" src="https://imagenes.gatotv.com/half_stars_4.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Fifty Shades of Grey</title>
+<desc lang="es">La vida de la estudiante de literatura, Anastasia Steele, cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(c)</desc>
+<credits>
+<actor>Dakota Johnson</actor>
+<actor>Jamie Dornan</actor>
+<actor>Eloise Mumford</actor>
+<actor>Luke Grimes</actor>
+<actor>Rita Ora</actor>
+<producer>Michael De Luca</producer>
+<producer>Dana Brunetti</producer>
+<producer>E. L. James</producer>
+<composer>Danny Elfman</composer>
+</credits>
+<date>2015</date>
+<category lang="es">Drama</category>
+<category lang="es">Romance</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_de_grey.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241208152000 -0600" stop="20241208172000 -0600" channel="Canal Max UP">
+<title lang="es">Cincuenta Sombras más Oscuras&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/cincuenta_sombras_mas_oscuras/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/cincuenta_sombras_mas_oscuras.jpg" width="160" height="240" alt="Cincuenta Sombras más Oscuras" title="Cincuenta Sombras más Oscuras" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2017" &gt;&lt;span itemprop="copyrightYear"&gt;2017&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="4" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="4/10" alt="4/10" src="https://imagenes.gatotv.com/half_stars_4.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<desc lang="es">Grey busca regresar con Ana, esta vez deberá luchar contra sus demonios internos y Anastasia deberá enfrentar la ira y la envida de las mujeres previas a ella.(c)</desc>
+<credits>
+<actor>Jamie Dornan</actor>
+<actor>Dakota Johnson</actor>
+<producer>Dana Brunetti</producer>
+<producer>Michael De Luca</producer>
+<producer>James Foley</producer>
+<producer>Marcus Viscidi</producer>
+<composer>Danny Elfman</composer>
+</credits>
+<date>2017</date>
+<category lang="es">Drama</category>
+<category lang="es">Romance</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_mas_oscuras.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241208172000 -0600" stop="20241208191500 -0600" channel="Canal Max UP">
+<title lang="es">Solo para parejas</title>
+</programme>
+<programme start="20241208191500 -0600" stop="20241208210000 -0600" channel="Canal Max UP">
+<title lang="es">Hazme el Favor&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/hazme_el_favor/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/hazme_el_favor.jpg" width="160" height="240" alt="Hazme el Favor" title="Hazme el Favor" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-06-17"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">No Hard Feelings</title>
+<desc lang="es">Una chica con problemas económicos descubre un anunció de trabajo: padres acaudalados buscan a alguien que "salga" con su introvertido hijo de 19 años.(c)</desc>
+<credits>
+<actor>Jennifer Lawrence</actor>
+<actor>Andrew Barth Feldman</actor>
+<actor>Matthew Broderick</actor>
+<actor>Laura Benanti</actor>
+<actor>Natalie Morales</actor>
+<actor>Scott MacArthur</actor>
+<actor>Ebon Moss-Bachrach</actor>
+<actor>Hasan Minhaj</actor>
+<actor>Kyle Mooney</actor>
+<producer>Alex Saks</producer>
+<producer>Naomi Odenkirk</producer>
+<producer>Marc Provissiero</producer>
+<producer>Jennifer Lawrence</producer>
+<producer>Justine Ciarrocchi</producer>
+</credits>
+<date>2023</date>
+<category lang="es">Comedia</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hazme_el_favor.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241208210000 -0600" stop="20241208231000 -0600" channel="Canal Max UP">
+<title lang="es">Esta chica es un desastre</title>
+</programme>
+<programme start="20241208231000 -0600" stop="20241209012000 -0600" channel="Canal Max UP">
+<title lang="es">Cincuenta Sombras de Grey&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/cincuenta_sombras_de_grey/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/cincuenta_sombras_de_grey.jpg" width="160" height="240" alt="Cincuenta Sombras de Grey" title="Cincuenta Sombras de Grey" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2022-07-23"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2015" &gt;&lt;span itemprop="copyrightYear"&gt;2015&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="4" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="4/10" alt="4/10" src="https://imagenes.gatotv.com/half_stars_4.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Fifty Shades of Grey</title>
+<desc lang="es">La vida de la estudiante de literatura, Anastasia Steele, cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(c)</desc>
+<credits>
+<actor>Dakota Johnson</actor>
+<actor>Jamie Dornan</actor>
+<actor>Eloise Mumford</actor>
+<actor>Luke Grimes</actor>
+<actor>Rita Ora</actor>
+<producer>Michael De Luca</producer>
+<producer>Dana Brunetti</producer>
+<producer>E. L. James</producer>
+<composer>Danny Elfman</composer>
+</credits>
+<date>2015</date>
+<category lang="es">Drama</category>
+<category lang="es">Romance</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_de_grey.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241209231000 -0600" stop="20241210012000 -0600" channel="Canal Max UP">
+<title lang="es">Cincuenta Sombras de Grey&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/cincuenta_sombras_de_grey/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/cincuenta_sombras_de_grey.jpg" width="160" height="240" alt="Cincuenta Sombras de Grey" title="Cincuenta Sombras de Grey" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2022-07-23"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2015" &gt;&lt;span itemprop="copyrightYear"&gt;2015&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="4" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="4/10" alt="4/10" src="https://imagenes.gatotv.com/half_stars_4.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Fifty Shades of Grey</title>
+<desc lang="es">La vida de la estudiante de literatura, Anastasia Steele, cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(c)</desc>
+<credits>
+<actor>Dakota Johnson</actor>
+<actor>Jamie Dornan</actor>
+<actor>Eloise Mumford</actor>
+<actor>Luke Grimes</actor>
+<actor>Rita Ora</actor>
+<producer>Michael De Luca</producer>
+<producer>Dana Brunetti</producer>
+<producer>E. L. James</producer>
+<composer>Danny Elfman</composer>
+</credits>
+<date>2015</date>
+<category lang="es">Drama</category>
+<category lang="es">Romance</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_de_grey.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241210012000 -0600" stop="20241210030000 -0600" channel="Canal Max UP">
+<title lang="es">Ángeles de Charlie</title>
+</programme>
+<programme start="20241210030000 -0600" stop="20241210044500 -0600" channel="Canal Max UP">
+<title lang="es">La herencia del Sr. Deeds</title>
+</programme>
+<programme start="20241210044500 -0600" stop="20241210062000 -0600" channel="Canal Max UP">
+<title lang="es">The Firm</title>
+</programme>
+<programme start="20241210062000 -0600" stop="20241210082500 -0600" channel="Canal Max UP">
+<title lang="es">Viaje de chicas</title>
+</programme>
+<programme start="20241210082500 -0600" stop="20241210100500 -0600" channel="Canal Max UP">
+<title lang="es">Tammy</title>
+</programme>
+<programme start="20241210100500 -0600" stop="20241210120000 -0600" channel="Canal Max UP">
+<title lang="es">Mil veces hasta siempre</title>
+</programme>
+<programme start="20241210120000 -0600" stop="20241210134000 -0600" channel="Canal Max UP">
+<title lang="es">La Casa de las conejitas</title>
+</programme>
+<programme start="20241210134000 -0600" stop="20241210152500 -0600" channel="Canal Max UP">
+<title lang="es">¿Qué pasó ayer?</title>
+</programme>
+<programme start="20241210152500 -0600" stop="20241210173500 -0600" channel="Canal Max UP">
+<title lang="es">Damas en Guerra&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/damas_en_guerra.jpg" width="160" height="240" alt="Damas en Guerra" title="Damas en Guerra" /&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2011" &gt;&lt;span itemprop="copyrightYear"&gt;2011&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<desc lang="es">Annie es elegida como dama de honor de su mejor amiga, pero hay un problema, ella está en banca rota, aun así se aventura en juntar este grupo de damas.(c)</desc>
+<credits>
+<actor>Kristen Wiig</actor>
+<actor>Maya Rudolph</actor>
+<producer>Judd Apatow</producer>
+<producer>Barry Mendel</producer>
+<producer>Clayton Townsend</producer>
+<composer>Michael Andrews</composer>
+</credits>
+<date>2011</date>
+<category lang="es">Comedia</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/damas_en_guerra.png" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241210173500 -0600" stop="20241210192000 -0600" channel="Canal Max UP">
+<title lang="es">Son como niños</title>
+</programme>
+<programme start="20241210192000 -0600" stop="20241210210000 -0600" channel="Canal Max UP">
+<title lang="es">Quiero matar a mi jefe</title>
+</programme>
+<programme start="20241210210000 -0600" stop="20241210225000 -0600" channel="Canal Max UP">
+<title lang="es">Quiero matar a mi jefe 2</title>
+</programme>
+<programme start="20241210225000 -0600" stop="20241211003000 -0600" channel="Canal Max UP">
+<title lang="es">Vacaciones</title>
+</programme>
+<programme start="20241211225000 -0600" stop="20241212003000 -0600" channel="Canal Max UP">
+<title lang="es">Vacaciones</title>
+</programme>
+<programme start="20241205000300 -0600" stop="20241205020700 -0600" channel="Canal HBO">
+<title lang="es">Bad Boys: Hasta la Muerte&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/bad_boys_hasta_la_muerte/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/bad_boys_hasta_la_muerte.jpg" width="160" height="240" alt="Bad Boys: Hasta la Muerte" title="Bad Boys: Hasta la Muerte" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-06-06"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Bad Boys: Ride or Die</title>
+<desc lang="es">Cuando su difunto capitán es acusado de estar involucrado con la mafia, los detectives Mike y Marcus deben trabajar fuera de la ley para resolver el caso.(n)</desc>
+<credits>
+<actor>Will Smith</actor>
+<actor>Martin Lawrence</actor>
+<actor>Vanessa Hudgens</actor>
+<actor>Alexander Ludwig</actor>
+<actor>Paola Núñez</actor>
+<actor>Eric Dane</actor>
+<actor>Ioan Gruffudd</actor>
+<actor>Jacob Scipio</actor>
+<actor>Melanie Liburd</actor>
+<actor>Tasha Smith</actor>
+<actor>Tiffany Haddish</actor>
+<actor>Joe Pantoliano</actor>
+<producer>Jerry Bruckheimer</producer>
+<producer>Will Smith</producer>
+<producer>Chad Oman</producer>
+<producer>Doug Belgrad</producer>
+<composer>Lorne Balfe</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Crimen</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/bad_boys_hasta_la_muerte.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241205020700 -0600" stop="20241205040600 -0600" channel="Canal HBO">
+<title lang="es">Titanes del Pacífico: La Insurrección&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/titanes_del_pacifico_la_insurreccion/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/pacific_rim_uprising.jpg" width="160" height="240" alt="Titanes del Pacífico: La Insurrección" title="Titanes del Pacífico: La Insurrección" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2018" &gt;&lt;span itemprop="copyrightYear"&gt;2018&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Pacific Rim Uprising</title>
+<desc lang="es">Un conflicto entre monstruos y máquinas. Un joven rebelde hijo del legendario piloto que dio la vida por la humanidad, ahora debe enfrentar a los Kaiju.(n)</desc>
+<credits>
+<actor>John Boyega</actor>
+<actor>Scott Eastwood</actor>
+<actor>Cailee Spaeny</actor>
+<actor>Jing Tian</actor>
+<actor>Charlie Day</actor>
+<actor>Burn Gorman</actor>
+<actor>Rinko Kikuchi</actor>
+<actor>Adria Arjona</actor>
+<producer>John Boyega</producer>
+<producer>Cale Boyter</producer>
+<producer>Guillermo del Toro</producer>
+<producer>Jon Jashni</producer>
+<producer>Femi Oguns</producer>
+<producer>Mary Parent</producer>
+<producer>Thomas Tull</producer>
+<composer>John Paesano</composer>
+</credits>
+<date>2018</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/pacific_rim_uprising.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241205040600 -0600" stop="20241205060000 -0600" channel="Canal HBO">
+<title lang="es">Rescate del metro 123</title>
+</programme>
+<programme start="20241205060000 -0600" stop="20241205074000 -0600" channel="Canal HBO">
+<title lang="es">Todas menos tú</title>
+</programme>
+<programme start="20241205074000 -0600" stop="20241205084000 -0600" channel="Canal HBO">
+<title lang="es">Nikki Glaser: Algún día morirás</title>
+</programme>
+<programme start="20241205084000 -0600" stop="20241205102200 -0600" channel="Canal HBO">
+<title lang="es">Kung Fu Panda 4</title>
+</programme>
+<programme start="20241205102200 -0600" stop="20241205121400 -0600" channel="Canal HBO">
+<title lang="es">La Sociedad Estadounidense de Negros Mágicos</title>
+</programme>
+<programme start="20241205121400 -0600" stop="20241205143400 -0600" channel="Canal HBO">
+<title lang="es">Shazam!&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/shazam/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/shazam.jpg" width="160" height="240" alt="Shazam!" title="Shazam!" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2019" &gt;&lt;span itemprop="copyrightYear"&gt;2019&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Shazam!</title>
+<desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes.(n)</desc>
+<credits>
+<actor>Asher Angel</actor>
+<actor>Zachary Levi</actor>
+<actor>Mark Strong</actor>
+<actor>Jack Dylan Grazer</actor>
+<actor>Djimon Hounsou</actor>
+<actor>Grace Fulton</actor>
+<actor>Ian Chen</actor>
+<actor>Jovan Armand</actor>
+<actor>Faithe Herman</actor>
+<actor>Cooper Andrews</actor>
+<actor>Marta Milans</actor>
+<actor>Dwayne Johnson</actor>
+<producer>Peter Safran</producer>
+<composer>Benjamin Wallfisch</composer>
+</credits>
+<date>2019</date>
+<category lang="es">Acción</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shazam.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241205143400 -0600" stop="20241205153400 -0600" channel="Canal HBO">
+<title lang="es">Get Millie Black</title>
+</programme>
+<programme start="20241205153400 -0600" stop="20241205172800 -0600" channel="Canal HBO">
+<title lang="es">La trampa</title>
+</programme>
+<programme start="20241205172800 -0600" stop="20241205191800 -0600" channel="Canal HBO">
+<title lang="es">Con Todos Menos Contigo&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/con_todos_menos_contigo/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/con_todos_menos_contigo.jpg" width="160" height="240" alt="Con Todos Menos Contigo" title="Con Todos Menos Contigo" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-01-06"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Anyone But You</title>
+<desc lang="es">Ben y Bea deben actuar como adultos maduros para aparentar ser la pareja perfecta cuando inesperadamente se encuentran juntos en una boda en Australia.(n)</desc>
+<credits>
+<actor>Sydney Sweeney</actor>
+<actor>Glen Powell</actor>
+<actor>Alexandra Shipp</actor>
+<actor>GaTa</actor>
+<actor>Hadley Robinson</actor>
+<actor>Michelle Hurd</actor>
+<actor>Dermot Mulroney</actor>
+<actor>Darren Barnet</actor>
+<actor>Rachel Griffiths</actor>
+<producer>Will Gluck</producer>
+<producer>Joe Roth</producer>
+<producer>Jeff Kirschenbaum</producer>
+<composer>Este Haim</composer>
+<composer>Chris Stracey</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Comedia</category>
+<category lang="es">Romance</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/con_todos_menos_contigo.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241205191800 -0600" stop="20241205210000 -0600" channel="Canal HBO">
+<title lang="es">Kung Fu Panda 4</title>
+</programme>
+<programme start="20241205210000 -0600" stop="20241205220000 -0600" channel="Canal HBO">
+<title lang="es">True Detective: Tierra Nocturna&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/programa/true_detective_tierra_nocturna/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/programas/true_detective_tierra_nocturna.jpg" width="160" height="240" alt="True Detective: Tierra Nocturna" title="True Detective: Tierra Nocturna" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-01-17"&gt;&lt;a class="a_year" href="https://www.gatotv.com/programas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="9" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="9/10" alt="9/10" src="https://imagenes.gatotv.com/half_stars_9.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="TV-MA" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación TV-MA" srcset="https://imagenes.gatotv.com/rating/claros/tv-ma.jpg" /&gt;
+&lt;img title="Clasificación TV-MA" alt="Clasificación TV-MA" src="https://imagenes.gatotv.com/rating/oscuros/tv-ma.jpg" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">True Detective: Night Country</title>
+<sub-title lang="es">S4-Ep1</sub-title>
+<desc lang="es">Tras la desaparición de ocho hombres, Navarro trata de convencer a Danvers de que el caso está conectado al asesinato sin resolver de un activista local.(n)</desc>
+<credits>
+<actor>Rachel McAdams</actor>
+<actor>Jodie Foster</actor>
+<actor>Carmen Ejogo</actor>
+<actor>Kali Reis</actor>
+<actor>David Katrinarson</actor>
+<actor>Aron Már Ólafsson</actor>
+<actor>Klaus Tange</actor>
+<actor>Jónmundur Grétarsson</actor>
+<actor>Anthony Bacigalupo</actor>
+<actor>John Hawkes</actor>
+<composer>Vince Pope</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Crimen</category>
+<category lang="es">Drama</category>
+<category lang="es">Misterio</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Serie</category>
+<icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/true_detective_tierra_nocturna.jpg" />
+<episode-num system="onscreen">S4-Ep1</episode-num>
+<rating>
+<value>TV-MA</value>
+</rating>
+</programme>
+<programme start="20241205220000 -0600" stop="20241205225700 -0600" channel="Canal HBO">
+<title lang="es">Como agua para chocolate</title>
+<sub-title lang="es">S1-Ep5</sub-title>
+<episode-num system="onscreen">S1-Ep5</episode-num>
+</programme>
+<programme start="20241205225700 -0600" stop="20241206005400 -0600" channel="Canal HBO">
+<title lang="es">El Justiciero (The Equalizer)&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/el_justiciero_the_equalizer/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/el_justiciero_the_equalizer.jpg" width="160" height="240" alt="El Justiciero (The Equalizer)" title="El Justiciero (The Equalizer)" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2014" &gt;&lt;span itemprop="copyrightYear"&gt;2014&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">The Equalizer</title>
+<desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
+<credits>
+<actor>Denzel Washington</actor>
+<actor>Marton Csokas</actor>
+<actor>Chloë Grace Moretz</actor>
+<actor>David Harbour</actor>
+<actor>Bill Pullman</actor>
+<actor>Melissa Leo</actor>
+<producer>Todd Black</producer>
+<producer>Jason Blumenthal</producer>
+<producer>Denzel Washington</producer>
+<producer>Alex Siskin</producer>
+<producer>Steve Tisch</producer>
+<producer>Mace Neufeld</producer>
+<producer>Tony Eldridge</producer>
+<producer>Michael Sloan</producer>
+<composer>Harry Gregson-Williams</composer>
+</credits>
+<date>2014</date>
+<category lang="es">Acción</category>
+<category lang="es">Crimen</category>
+<category lang="es">Suspenso</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241206225700 -0600" stop="20241207005400 -0600" channel="Canal HBO">
+<title lang="es">El Justiciero (The Equalizer)&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/el_justiciero_the_equalizer/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/el_justiciero_the_equalizer.jpg" width="160" height="240" alt="El Justiciero (The Equalizer)" title="El Justiciero (The Equalizer)" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2014" &gt;&lt;span itemprop="copyrightYear"&gt;2014&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">The Equalizer</title>
+<desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
+<credits>
+<actor>Denzel Washington</actor>
+<actor>Marton Csokas</actor>
+<actor>Chloë Grace Moretz</actor>
+<actor>David Harbour</actor>
+<actor>Bill Pullman</actor>
+<actor>Melissa Leo</actor>
+<producer>Todd Black</producer>
+<producer>Jason Blumenthal</producer>
+<producer>Denzel Washington</producer>
+<producer>Alex Siskin</producer>
+<producer>Steve Tisch</producer>
+<producer>Mace Neufeld</producer>
+<producer>Tony Eldridge</producer>
+<producer>Michael Sloan</producer>
+<composer>Harry Gregson-Williams</composer>
+</credits>
+<date>2014</date>
+<category lang="es">Acción</category>
+<category lang="es">Crimen</category>
+<category lang="es">Suspenso</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241207005400 -0600" stop="20241207025000 -0600" channel="Canal HBO">
+<title lang="es">Daño colateral</title>
+</programme>
+<programme start="20241207025000 -0600" stop="20241207032500 -0600" channel="Canal HBO">
+<title lang="es">Alguien en algún lugar</title>
+<sub-title lang="es">S3-Ep6</sub-title>
+<episode-num system="onscreen">S3-Ep6</episode-num>
+</programme>
+<programme start="20241207032500 -0600" stop="20241207040000 -0600" channel="Canal HBO">
+<title lang="es">Sólo en Florida</title>
+<sub-title lang="es">S1-Ep6</sub-title>
+<episode-num system="onscreen">S1-Ep6</episode-num>
+</programme>
+<programme start="20241207040000 -0600" stop="20241207060000 -0600" channel="Canal HBO">
+<title lang="es">Líbranos del Mal&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/libranos_del_mal/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/libranos_del_mal.jpg" width="160" height="240" alt="Líbranos del Mal" title="Líbranos del Mal" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2014" &gt;&lt;span itemprop="copyrightYear"&gt;2014&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Deliver Us from Evil</title>
+<desc lang="es">Un oficial de policía de Nueva York investiga una serie de crímenes y con a la ayuda de ritos de un sacerdote poco convencional para librar a los poseídos.(n)</desc>
+<credits>
+<actor>Eric Bana</actor>
+<actor>Édgar Ramírez</actor>
+<actor>Olivia Munn</actor>
+<actor>Sean Harris</actor>
+<actor>Joel McHale</actor>
+<producer>Jerry Bruckheimer</producer>
+<composer>Christopher Young</composer>
+</credits>
+<date>2014</date>
+<category lang="es">Crimen</category>
+<category lang="es">Horror</category>
+<category lang="es">Terror</category>
+<category lang="es">Suspenso</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/libranos_del_mal.jpg" />
+<rating>
+<value>R</value>
+</rating>
+</programme>
+<programme start="20241207060000 -0600" stop="20241207080000 -0600" channel="Canal HBO">
+<title lang="es">Los Caballeros del Zodiaco: Saint Seiya - El Inicio&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/los_caballeros_del_zodiaco_saint_seiya_el_inicio/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/los_caballeros_del_zodiaco_saint_seiya_el_inicio.jpg" width="160" height="240" alt="Los Caballeros del Zodiaco: Saint Seiya - El Inicio" title="Los Caballeros del Zodiaco: Saint Seiya - El Inicio" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-05-10"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="5" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="5/10" alt="5/10" src="https://imagenes.gatotv.com/half_stars_5.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Knights of the Zodiac</title>
+<desc lang="es">Seiya, un testarudo adolescente que lucha por dinero, se ve inmerso en un mundo de santos en conflicto donde deberá proteger a una diosa reencarnada.(n)</desc>
+<credits>
+<actor>Mackenyu</actor>
+<actor>Famke Janssen</actor>
+<actor>Madison Iseman</actor>
+<actor>Diego Tinoco</actor>
+<actor>Mark Dacascos</actor>
+<actor>Nick Stahl</actor>
+<actor>Sean Bean</actor>
+<actor>Caitlin Hutso</actor>
+<producer>Yoshi Ikezawa</producer>
+<producer>Joseph Chou</producer>
+<producer>Tim Kwok</producer>
+<composer>Yoshihiro Ike</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Drama</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_caballeros_del_zodiaco_saint_seiya_el_inicio.jpg" />
+<country lang="es">Estados Unidos</country>
+<country lang="es">Japón</country>
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241207080000 -0600" stop="20241207100400 -0600" channel="Canal HBO">
+<title lang="es">Megalodón 2: El Gran Abismo&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/megalodon_2_el_gran_abismo/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/megalodon_2_el_gran_abismo.jpg" width="160" height="240" alt="Megalodón 2: El Gran Abismo" title="Megalodón 2: El Gran Abismo" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-08-09"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Meg 2: The Trench</title>
+<desc lang="es">Un equipo de investigación se ve obligado a una batalla por la supervivencia cuando una malevolente operación minera amenaza su misión de exploración.(n)</desc>
+<credits>
+<actor>Jason Statham</actor>
+<actor>Wu Jing</actor>
+<actor>Sophia Cai</actor>
+<actor>Page Kennedy</actor>
+<actor>Sergio Peris-Mencheta</actor>
+<actor>Skyler Samuels</actor>
+<actor>Cliff Curtis</actor>
+<writer>"The Trench" de Steve Alten</writer>
+<producer>Lorenzo di Bonaventura</producer>
+<producer>Belle Avery</producer>
+<composer>Harry Gregson-Williams</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Aventura</category>
+<category lang="es">Acción</category>
+<category lang="es">Terror</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/megalodon_2_el_gran_abismo.jpg" />
+<country lang="es">China</country>
+<country lang="es">Estados Unidos</country>
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241207100400 -0600" stop="20241207110000 -0600" channel="Canal HBO">
+<title lang="es">Como agua para chocolate</title>
+<sub-title lang="es">S1-Ep5</sub-title>
+<episode-num system="onscreen">S1-Ep5</episode-num>
+</programme>
+<programme start="20241207110000 -0600" stop="20241207133000 -0600" channel="Canal HBO">
+<title lang="es">Aquaman&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/aquaman/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/aquaman.jpg" width="160" height="240" alt="Aquaman" title="Aquaman" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2018" &gt;&lt;span itemprop="copyrightYear"&gt;2018&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Aquaman</title>
+<desc lang="es">Un mitad humano y mitad atlanticense es llevado al viaje de su vida donde se verá forzado a enfrentar quien es en verdad y descubrir si es digno a ser un rey.(n)</desc>
+<credits>
+<actor>Jason Momoa</actor>
+<actor>Amber Heard</actor>
+<actor>Willem Dafoe</actor>
+<actor>Patrick Wilson</actor>
+<actor>Dolph Lundgren</actor>
+<actor>Yahya Abdul-Mateen II</actor>
+<actor>Nicole Kidman</actor>
+<actor>Temuera Morrison</actor>
+<producer>Peter Safran</producer>
+<producer>Rob Cowan</producer>
+<composer>Rupert Gregson-Williams</composer>
+</credits>
+<date>2018</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241207133000 -0600" stop="20241207143000 -0600" channel="Canal HBO">
+<title lang="es">True Detective: Tierra Nocturna&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/programa/true_detective_tierra_nocturna/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/programas/true_detective_tierra_nocturna.jpg" width="160" height="240" alt="True Detective: Tierra Nocturna" title="True Detective: Tierra Nocturna" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-01-17"&gt;&lt;a class="a_year" href="https://www.gatotv.com/programas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="9" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="9/10" alt="9/10" src="https://imagenes.gatotv.com/half_stars_9.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="TV-MA" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación TV-MA" srcset="https://imagenes.gatotv.com/rating/claros/tv-ma.jpg" /&gt;
+&lt;img title="Clasificación TV-MA" alt="Clasificación TV-MA" src="https://imagenes.gatotv.com/rating/oscuros/tv-ma.jpg" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">True Detective: Night Country</title>
+<sub-title lang="es">S4-Ep1</sub-title>
+<desc lang="es">Tras la desaparición de ocho hombres, Navarro trata de convencer a Danvers de que el caso está conectado al asesinato sin resolver de un activista local.(n)</desc>
+<credits>
+<actor>Rachel McAdams</actor>
+<actor>Jodie Foster</actor>
+<actor>Carmen Ejogo</actor>
+<actor>Kali Reis</actor>
+<actor>David Katrinarson</actor>
+<actor>Aron Már Ólafsson</actor>
+<actor>Klaus Tange</actor>
+<actor>Jónmundur Grétarsson</actor>
+<actor>Anthony Bacigalupo</actor>
+<actor>John Hawkes</actor>
+<composer>Vince Pope</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Crimen</category>
+<category lang="es">Drama</category>
+<category lang="es">Misterio</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Serie</category>
+<icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/true_detective_tierra_nocturna.jpg" />
+<episode-num system="onscreen">S4-Ep1</episode-num>
+<rating>
+<value>TV-MA</value>
+</rating>
+</programme>
+<programme start="20241207143000 -0600" stop="20241207160800 -0600" channel="Canal HBO">
+<title lang="es">Harold y su Crayón Mágico&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/harold_y_su_crayon_magico/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/harold_y_su_crayon_magico.jpg" width="160" height="240" alt="Harold y su Crayón Mágico" title="Harold y su Crayón Mágico" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-08-06"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG" srcset="https://imagenes.gatotv.com/rating/claros/pg.png" /&gt;
+&lt;img title="Clasificación PG" alt="Clasificación PG" src="https://imagenes.gatotv.com/rating/oscuros/pg.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Harold and the Purple Crayon</title>
+<desc lang="es">Harold, un dibujo que puede hacer que cualquier cosa cobre vida simplemente dibujándola, se dibuja fuera de las páginas de su libro para ver el mundo real.(n)</desc>
+<credits>
+<actor>Zachary Levi</actor>
+<actor>Lil Rel Howery</actor>
+<actor>Benjamin Bottani</actor>
+<actor>Zooey Deschanel</actor>
+<actor>Jemaine Clement</actor>
+<actor>Tanya Reynolds</actor>
+<actor>Ravi Patel</actor>
+<actor>Camille Guaty</actor>
+<actor>Pete Gardner</actor>
+<actor>Seth Robbins</actor>
+<producer>John Davis</producer>
+<composer>Batu Sener</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Animación</category>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Familia</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/harold_y_su_crayon_magico.jpg" />
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20241207160800 -0600" stop="20241207175100 -0600" channel="Canal HBO">
+<title lang="es">Estación Espacial Internacional</title>
+</programme>
+<programme start="20241207175100 -0600" stop="20241207202000 -0600" channel="Canal HBO">
+<title lang="es">Rápidos Y Furiosos X&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/rapidos_y_furiosos_x/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/rapidos_y_furiosos_x.jpg" width="160" height="240" alt="Rápidos Y Furiosos X" title="Rápidos Y Furiosos X" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-05-24"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Fast X</title>
+<desc lang="es">Dom Toretto y su familia se enfrentan a su oponente más letal: Dante, hijo de un capo de la droga que derrotaron, que busca venganza contra su familia.(n)</desc>
+<credits>
+<actor>Vin Diesel</actor>
+<actor>Michelle Rodríguez</actor>
+<actor>Tyrese Gibson</actor>
+<actor>Chris "Ludacris" Bridges</actor>
+<actor>Jason Momoa</actor>
+<actor>Nathalie Emmanuel</actor>
+<actor>Jordana Brewster</actor>
+<actor>John Cena</actor>
+<actor>Jason Statham</actor>
+<actor>Sung Kang</actor>
+<actor>Alan Ritchson</actor>
+<actor>Daniela Melchior</actor>
+<actor>Scott Eastwood</actor>
+<actor>Helen Mirren</actor>
+<actor>Charlize Theron</actor>
+<actor>Brie Larson</actor>
+<actor>Rita Moreno</actor>
+<producer>Neal H. Moritz</producer>
+<producer>Vin Diesel</producer>
+<producer>Justin Lin</producer>
+<producer>Jeff Kirschenbaum</producer>
+<producer>Samantha Vincent</producer>
+<composer>Brian Tyler</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Crimen</category>
+<category lang="es">Misterio</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rapidos_y_furiosos_x.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241207202000 -0600" stop="20241207220000 -0600" channel="Canal HBO">
+<title lang="es">Super Mario Bros. La película</title>
+</programme>
+<programme start="20241207220000 -0600" stop="20241207234500 -0600" channel="Canal HBO">
+<title lang="es">Una navideña historia de Navidad</title>
+</programme>
+<programme start="20241207234500 -0600" stop="20241208015000 -0600" channel="Canal HBO">
+<title lang="es">Wonka&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/wonka/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/wonka.jpg" width="160" height="240" alt="Wonka" title="Wonka" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-01-06"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Wonka</title>
+<desc lang="es">Sigue la maravillosa historia de cómo el mayor inventor del mundo, el mago y el chocolatero se convirtió en el querido Willy Wonka que conocemos hoy.(n)</desc>
+<credits>
+<actor>Timothée Chalamet</actor>
+<actor>Calah Lane</actor>
+<actor>Keegan-Michael Key</actor>
+<actor>Paterson Joseph</actor>
+<actor>Matt Lucas</actor>
+<actor>Mathew Baynton</actor>
+<actor>Sally Hawkins</actor>
+<actor>Rowan Atkinson</actor>
+<actor>Jim Carter</actor>
+<actor>Tom Davis</actor>
+<actor>Olivia Colman</actor>
+<actor>Hugh Grant</actor>
+<actor>Natasha Rothwell</actor>
+<actor>Rich Fulcher</actor>
+<actor>Rakhee Thakrar</actor>
+<actor>Kobna Holdbrook-Smith</actor>
+<actor>Simon Farnaby</actor>
+<actor>Colin O'Brien</actor>
+<actor>Ellie White</actor>
+<actor>Murray McArthur</actor>
+<actor>Tracy Ifeachor</actor>
+<actor>Isy Suttie</actor>
+<writer>Los personajes de Roald Dahl</writer>
+<producer>David Heyman</producer>
+<producer>Luke Kelly</producer>
+<producer>Alexandra Derbyshire</producer>
+</credits>
+<date>2023</date>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Familia</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Música</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/wonka.jpg" />
+<country lang="es">Estados Unidos</country>
+<country lang="es">Reino Unido</country>
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241208234500 -0600" stop="20241209015000 -0600" channel="Canal HBO">
+<title lang="es">Wonka&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/wonka/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/wonka.jpg" width="160" height="240" alt="Wonka" title="Wonka" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-01-06"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Wonka</title>
+<desc lang="es">Sigue la maravillosa historia de cómo el mayor inventor del mundo, el mago y el chocolatero se convirtió en el querido Willy Wonka que conocemos hoy.(n)</desc>
+<credits>
+<actor>Timothée Chalamet</actor>
+<actor>Calah Lane</actor>
+<actor>Keegan-Michael Key</actor>
+<actor>Paterson Joseph</actor>
+<actor>Matt Lucas</actor>
+<actor>Mathew Baynton</actor>
+<actor>Sally Hawkins</actor>
+<actor>Rowan Atkinson</actor>
+<actor>Jim Carter</actor>
+<actor>Tom Davis</actor>
+<actor>Olivia Colman</actor>
+<actor>Hugh Grant</actor>
+<actor>Natasha Rothwell</actor>
+<actor>Rich Fulcher</actor>
+<actor>Rakhee Thakrar</actor>
+<actor>Kobna Holdbrook-Smith</actor>
+<actor>Simon Farnaby</actor>
+<actor>Colin O'Brien</actor>
+<actor>Ellie White</actor>
+<actor>Murray McArthur</actor>
+<actor>Tracy Ifeachor</actor>
+<actor>Isy Suttie</actor>
+<writer>Los personajes de Roald Dahl</writer>
+<producer>David Heyman</producer>
+<producer>Luke Kelly</producer>
+<producer>Alexandra Derbyshire</producer>
+</credits>
+<date>2023</date>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Familia</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Música</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/wonka.jpg" />
+<country lang="es">Estados Unidos</country>
+<country lang="es">Reino Unido</country>
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241209015000 -0600" stop="20241209035800 -0600" channel="Canal HBO">
+<title lang="es">Constantine</title>
+</programme>
+<programme start="20241209035800 -0600" stop="20241209060000 -0600" channel="Canal HBO">
+<title lang="es">300</title>
+</programme>
+<programme start="20241209060000 -0600" stop="20241209073100 -0600" channel="Canal HBO">
+<title lang="es">¡Patos!</title>
+</programme>
+<programme start="20241209073100 -0600" stop="20241209094400 -0600" channel="Canal HBO">
+<title lang="es">Jurassic World Mundo Jurásico</title>
+</programme>
+<programme start="20241209094400 -0600" stop="20241209113300 -0600" channel="Canal HBO">
+<title lang="es">Garfield: Fuera de Casa&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/garfield_fuera_de_casa/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/garfield_fuera_de_casa.jpg" width="160" height="240" alt="Garfield: Fuera de Casa" title="Garfield: Fuera de Casa" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-05-04"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG" srcset="https://imagenes.gatotv.com/rating/claros/pg.png" /&gt;
+&lt;img title="Clasificación PG" alt="Clasificación PG" src="https://imagenes.gatotv.com/rating/oscuros/pg.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">The Garfield Movie</title>
+<desc lang="es">Garfield y su amigo canino Odie se ven obligados a abandonar sus mimadas vidas para unirse al padre de Garfield en un divertidísimo atraco de alto riesgo.(n)</desc>
+<credits>
+<actor>Chris Pratt</actor>
+<actor>Samuel L. Jackson</actor>
+<actor>Hannah Waddingham</actor>
+<actor>Ving Rhames</actor>
+<actor>Nicholas Hoult</actor>
+<actor>Cecily Strong</actor>
+<actor>Harvey Guillén</actor>
+<actor>Brett Goldstein</actor>
+<actor>Bowen Yang</actor>
+<actor>Janelle James</actor>
+<actor>Snoop Dogg</actor>
+<writer>"Garfield" de Jim Davis</writer>
+<producer>John Cohen</producer>
+<producer>Broderick Johnson</producer>
+<producer>Andrew Kosove</producer>
+<producer>Steven P. Wegner</producer>
+<producer>Craig Sost</producer>
+<producer>Namit Malhotra</producer>
+<composer>John Debney</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Animación</category>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Familia</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/garfield_fuera_de_casa.jpg" />
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20241209113300 -0600" stop="20241209134700 -0600" channel="Canal HBO">
+<title lang="es">Black Adam&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/black_adam/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/black_adam.jpg" width="160" height="240" alt="Black Adam" title="Black Adam" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2022-10-30"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2022" &gt;&lt;span itemprop="copyrightYear"&gt;2022&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Black Adam</title>
+<desc lang="es">Tras ser liberado de su encierro de casi 5000 años, un hombre con podres imparables está listo para desatar su forma única de justicia en el mundo moderno.(n)</desc>
+<credits>
+<actor>Dwayne Johnson</actor>
+<actor>Aldis Hodge</actor>
+<actor>Noah Centineo</actor>
+<actor>Sarah Shahi</actor>
+<actor>Marwan Kenzari</actor>
+<actor>Quintessa Swindell</actor>
+<actor>Bodhi Sabongui</actor>
+<actor>Pierce Brosnan</actor>
+<writer>Los personajes de DC</writer>
+<producer>Beau Flynn</producer>
+<producer>Dwayne Johnson</producer>
+<producer>Hiram García</producer>
+<producer>Dany García</producer>
+</credits>
+<date>2022</date>
+<category lang="es">Acción</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/black_adam.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241209134700 -0600" stop="20241209155100 -0600" channel="Canal HBO">
+<title lang="es">Madame Web&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/madame_web/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/madame_web.jpg" width="160" height="240" alt="Madame Web" title="Madame Web" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-02-15"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="4" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="4/10" alt="4/10" src="https://imagenes.gatotv.com/half_stars_4.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Madame Web</title>
+<desc lang="es">Una paramédica de Manhattan se ve obligada a enfrentar revelaciones sobre su pasado mientras intenta sobrevivir con tres jóvenes con destinos poderosos.(n)</desc>
+<credits>
+<actor>Dakota Johnson</actor>
+<actor>Sydney Sweeney</actor>
+<actor>Celeste O'Connor</actor>
+<actor>Isabela Merced</actor>
+<actor>Tahar Rahim</actor>
+<writer>Marvel Comics</writer>
+<producer>Lorenzo di Bonaventura</producer>
+<composer>Johan Söderqvist</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/madame_web.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241209155100 -0600" stop="20241209181000 -0600" channel="Canal HBO">
+<title lang="es">Romper el círculo</title>
+</programme>
+<programme start="20241209181000 -0600" stop="20241209202000 -0600" channel="Canal HBO">
+<title lang="es">Barbie</title>
+</programme>
+<programme start="20241209202000 -0600" stop="20241209220000 -0600" channel="Canal HBO">
+<title lang="es">Beetlejuice, el súper fantasma</title>
+</programme>
+<programme start="20241209220000 -0600" stop="20241209235300 -0600" channel="Canal HBO">
+<title lang="es">Barbie</title>
+</programme>
+<programme start="20241209235300 -0600" stop="20241210015500 -0600" channel="Canal HBO">
+<title lang="es">Ghostbusters: Apocalipsis Fantasma&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/ghostbusters_apocalipsis_fantasma/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/ghostbusters_apocalipsis_fantasma.jpg" width="160" height="240" alt="Ghostbusters: Apocalipsis Fantasma" title="Ghostbusters: Apocalipsis Fantasma" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-03-22"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2024" &gt;&lt;span itemprop="copyrightYear"&gt;2024&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Ghostbusters: Frozen Empire</title>
+<desc lang="es">Los Cazafantasmas nuevos y antiguos deben unir fuerzas para proteger su hogar y salvar al mundo de un ejército de fantasmas que arroja un escalofrió mortal.(n)</desc>
+<credits>
+<actor>Paul Rudd</actor>
+<actor>Carrie Coon</actor>
+<actor>Finn Wolfhard</actor>
+<actor>Mckenna Grace</actor>
+<actor>Kumail Nanjiani</actor>
+<actor>Patton Oswalt</actor>
+<actor>Celeste O'Connor</actor>
+<actor>Logan Kim</actor>
+<actor>Bill Murray</actor>
+<actor>Dan Aykroyd</actor>
+<actor>Ernie Hudson</actor>
+<actor>Annie Potts</actor>
+<actor>William Atherton</actor>
+<actor>James Acaster</actor>
+<composer>Dario Marianelli</composer>
+</credits>
+<date>2024</date>
+<category lang="es">Aventura</category>
+<category lang="es">Comedia</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ghostbusters_apocalipsis_fantasma.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241210015500 -0600" stop="20241210035800 -0600" channel="Canal HBO">
+<title lang="es">Fragmentado&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/fragmentado/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/fragmentado.jpg" width="160" height="240" alt="Fragmentado" title="Fragmentado" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2017" &gt;&lt;span itemprop="copyrightYear"&gt;2017&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="8" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="8/10" alt="8/10" src="https://imagenes.gatotv.com/half_stars_8.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<desc lang="es">Tres chicas son secuestradas por un hombre que posee 23 personalidades, ahora ellas deberán convencer a alguna de estas personalidades para que las libere.(n)</desc>
+<credits>
+<actor>James McAvoy</actor>
+<actor>Anya Taylor-Joy</actor>
+<actor>Jessica Sula</actor>
+<actor>Haley Lu Richardson</actor>
+<actor>Betty Buckley</actor>
+<producer>M. Night Shyamalan</producer>
+<producer>Jason Blum</producer>
+<producer>Marc Bienstock</producer>
+<composer>West Dylan Thordson</composer>
+</credits>
+<date>2017</date>
+<category lang="es">Horror</category>
+<category lang="es">Suspenso</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/fragmentado.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241210035800 -0600" stop="20241210060000 -0600" channel="Canal HBO">
+<title lang="es">Una Esposa de Mentira&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/una_esposa_de_mentira/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/una_esposa_de_mentira.jpg" width="160" height="240" alt="Una Esposa de Mentira" title="Una Esposa de Mentira" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2011" &gt;&lt;span itemprop="copyrightYear"&gt;2011&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Just Go with It</title>
+<desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.(n)</desc>
+<credits>
+<actor>Adam Sandler</actor>
+<actor>Jennifer Aniston</actor>
+<actor>Nicole Kidman</actor>
+<actor>Brooklyn Decker</actor>
+<actor>Bailee Madison</actor>
+<actor>Nick Swardson</actor>
+<actor>Carol Ann Susi</actor>
+<actor>Griffin Gluck</actor>
+<producer>Jack Giarraputo</producer>
+<producer>Adam Sandler</producer>
+<producer>Heather Parry</producer>
+<composer>Rupert Gregson-Williams</composer>
+</credits>
+<date>2011</date>
+<category lang="es">Comedia</category>
+<category lang="es">Romance</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241210060000 -0600" stop="20241210080000 -0600" channel="Canal HBO">
+<title lang="es">Titanes del Pacífico: La Insurrección&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/titanes_del_pacifico_la_insurreccion/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/pacific_rim_uprising.jpg" width="160" height="240" alt="Titanes del Pacífico: La Insurrección" title="Titanes del Pacífico: La Insurrección" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2020-04-28"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2018" &gt;&lt;span itemprop="copyrightYear"&gt;2018&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Pacific Rim Uprising</title>
+<desc lang="es">Un conflicto entre monstruos y máquinas. Un joven rebelde hijo del legendario piloto que dio la vida por la humanidad, ahora debe enfrentar a los Kaiju.(n)</desc>
+<credits>
+<actor>John Boyega</actor>
+<actor>Scott Eastwood</actor>
+<actor>Cailee Spaeny</actor>
+<actor>Jing Tian</actor>
+<actor>Charlie Day</actor>
+<actor>Burn Gorman</actor>
+<actor>Rinko Kikuchi</actor>
+<actor>Adria Arjona</actor>
+<producer>John Boyega</producer>
+<producer>Cale Boyter</producer>
+<producer>Guillermo del Toro</producer>
+<producer>Jon Jashni</producer>
+<producer>Femi Oguns</producer>
+<producer>Mary Parent</producer>
+<producer>Thomas Tull</producer>
+<composer>John Paesano</composer>
+</credits>
+<date>2018</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/pacific_rim_uprising.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241210080000 -0600" stop="20241210100900 -0600" channel="Canal HBO">
+<title lang="es">Pasante de moda</title>
+</programme>
+<programme start="20241210100900 -0600" stop="20241210121500 -0600" channel="Canal HBO">
+<title lang="es">Ángeles inesperados</title>
+</programme>
+<programme start="20241210121500 -0600" stop="20241210144500 -0600" channel="Canal HBO">
+<title lang="es">Animales Fantásticos: Los Secretos de Dumbledore&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/animales_fantasticos_los_secretos_de_dumbledore/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/animales_fantasticos_los_secretos_de_dumbledore.jpg" width="160" height="240" alt="Animales Fantásticos: Los Secretos de Dumbledore" title="Animales Fantásticos: Los Secretos de Dumbledore" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2022-04-08"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2022" &gt;&lt;span itemprop="copyrightYear"&gt;2022&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="7" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="7/10" alt="7/10" src="https://imagenes.gatotv.com/half_stars_7.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<desc lang="es">Un equipo de magos, brujas y un Muggle se unen para tratar de evitar que el poderoso mago oscuro, Gellert Grindelwald, no tome el control del mundo mágico.(n)</desc>
+<credits>
+<actor>Eddie Redmayne</actor>
+<actor>Jude Law</actor>
+<actor>Ezra Miller</actor>
+<actor>Dan Fogler</actor>
+<actor>Alison Sudol</actor>
+<actor>Callum Turner</actor>
+<actor>Jessica Williams</actor>
+<actor>Katherine Waterston</actor>
+<actor>Mads Mikkelsen</actor>
+<producer>David Heyman</producer>
+<producer>J. K. Rowling</producer>
+<producer>Steve Kloves</producer>
+<producer>Lionel Wigram</producer>
+<producer>Tim Lewis</producer>
+<composer>James Newton Howard</composer>
+</credits>
+<date>2022</date>
+<category lang="es">Aventura</category>
+<category lang="es">Familia</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/animales_fantasticos_los_secretos_de_dumbledore.jpg" />
+<country lang="es">Reino Unido</country>
+<country lang="es">Estados Unidos</country>
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241210144500 -0600" stop="20241210165700 -0600" channel="Canal HBO">
+<title lang="es">Aquaman y el Reino Perdido&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/aquaman_y_el_reino_perdido/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/aquaman_y_el_reino_perdido.jpg" width="160" height="240" alt="Aquaman y el Reino Perdido" title="Aquaman y el Reino Perdido" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2024-01-06"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="6" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="6/10" alt="6/10" src="https://imagenes.gatotv.com/half_stars_6.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA PG-13" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación PG-13" srcset="https://imagenes.gatotv.com/rating/claros/pg-13.png" /&gt;
+&lt;img title="Clasificación PG-13" alt="Clasificación PG-13" src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Aquaman and the Lost Kingdom</title>
+<desc lang="es">Para proteger a su familia y su reino de Black Manta que es más fuerte que nunca, Aquaman forma una alianza improbable con su hermano Orm para detenerlo.(n)</desc>
+<credits>
+<actor>Jason Momoa</actor>
+<actor>Patrick Wilson</actor>
+<actor>Amber Heard</actor>
+<actor>Yahya Abdul-Mateen II</actor>
+<actor>Nicole Kidman</actor>
+<writer>Los personajes de DC</writer>
+<producer>Peter Safran</producer>
+<producer>James Wan</producer>
+<producer>Rob Cowan</producer>
+<composer>Rupert Gregson-Williams</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Acción</category>
+<category lang="es">Aventura</category>
+<category lang="es">Fantasía</category>
+<category lang="es">Ciencia Ficción</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman_y_el_reino_perdido.jpg" />
+<rating>
+<value>PG-13</value>
+</rating>
+</programme>
+<programme start="20241210165700 -0600" stop="20241210200500 -0600" channel="Canal HBO">
+<title lang="es">Oppenheimer&lt;/h1&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="vertical-align:top;"&gt;
+&lt;td class="tbl_EPG_th"&gt;
+&lt;div style="width:160px; margin-bottom:3px;"&gt;
+&lt;a href="https://www.gatotv.com/pelicula/oppenheimer/poster"&gt;
+&lt;img itemprop="image" class="img_program" src="https://imagenes.gatotv.com/categorias/peliculas/oppenheimer.jpg" width="160" height="240" alt="Oppenheimer" title="Oppenheimer" /&gt;
+Ver Poster
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class="td_basic_info"&gt;
+&lt;div&gt;
+&lt;span itemprop="dtreviewed" datetime="2023-07-24"&gt;&lt;a class="a_year" href="https://www.gatotv.com/peliculas/ano/2023" &gt;&lt;span itemprop="copyrightYear"&gt;2023&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+&lt;span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating"&gt;
+&lt;meta itemprop="worstRating" content="1" /&gt;
+&lt;meta itemprop="ratingValue" content="9" /&gt;
+&lt;meta itemprop="bestRating" content="10" /&gt;
+&lt;img title="9/10" alt="9/10" src="https://imagenes.gatotv.com/half_stars_9.png" /&gt;
+&lt;/span&gt;
+&lt;meta itemprop="contentRating" content="MPAA R" /&gt;
+&lt;picture&gt;
+&lt;source media="(prefers-color-scheme: dark)" title="Clasificación R" srcset="https://imagenes.gatotv.com/rating/claros/r.png" /&gt;
+&lt;img title="Clasificación R" alt="Clasificación R" src="https://imagenes.gatotv.com/rating/oscuros/r.png" /&gt;
+&lt;/picture&gt;
+&lt;strong&gt;en&lt;/strong&gt; &lt;a itemprop="author" itemscope itemtype="http://schema.org/WebSite" href="https://www.gatotv.com/"&gt;&lt;span</title>
+<title lang="xx">Oppenheimer</title>
+<desc lang="es">Sigue la historia del enigmático científico estadounidense J. Robert Oppenheimer, un hombre que debe arriesgarse a destruir el mundo para salvarlo.(n)</desc>
+<credits>
+<actor>Cillian Murphy</actor>
+<actor>Emily Blunt</actor>
+<actor>Matt Damon</actor>
+<actor>Robert Downey Jr.</actor>
+<actor>Florence Pugh</actor>
+<actor>Rami Malek</actor>
+<actor>Benny Safdie</actor>
+<actor>Michael Angarano</actor>
+<actor>Josh Hartnett</actor>
+<actor>Kenneth Branagh</actor>
+<actor>Dane DeHaan</actor>
+<actor>Dylan Arnold</actor>
+<actor>David Krumholtz</actor>
+<actor>Alden Ehrenreich</actor>
+<actor>Matthew Modine</actor>
+<actor>Jack Quaid</actor>
+<actor>David Dastmalchian</actor>
+<actor>Jason Clarke</actor>
+<actor>Josh Peck</actor>
+<actor>Devon Bostick</actor>
+<actor>Alex Wolff</actor>
+<producer>Emma Thomas</producer>
+<producer>Charles Roven</producer>
+<producer>Christopher Nolan</producer>
+<composer>Ludwig Göransson</composer>
+</credits>
+<date>2023</date>
+<category lang="es">Biografía</category>
+<category lang="es">Drama</category>
+<category lang="es">Historia</category>
+<category lang="es">Película</category>
+<icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/oppenheimer.jpg" />
+<country lang="es">Estados Unidos</country>
+<country lang="es">Reino Unido</country>
+<rating>
+<value>R</value>
+</rating>
+</programme>
 </tv>
